@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+  userservice:
+    build:
+      context: ./
+      dockerfile: ./docker/DockerfileAPI
+    image: img_tp3
+    volumes:
+      - ./:/mnt/app
+    ports:
+      - 15556:5556
+  dbservice:
+    build:
+      context: ./
+      dockerfile: ./docker/DockerfileDB
+    image: img_tp3_back
+    volumes:
+      - ./:/mnt/app
+    ports:
+      - 15555:5555
+    depends_on:
+      - userservice
+
+  gandalfpuppet:
+    build:
+      context: ./
+      dockerfile: ./docker/DockerfileGandalfPupeteer
+    image: img_gandalfpuppet
+    volumes:
+      - ./:/mnt/app
+    depends_on:
+      - userservice
+      - dbservice
+  boromirpuppet:
+    build:
+      context: ./
+      dockerfile: ./docker/DockerfileBoromirPupeteer
+    image: img_boromirpuppet
+    volumes:
+      - ./:/mnt/app
+    depends_on:
+      - userservice
+      - dbservice

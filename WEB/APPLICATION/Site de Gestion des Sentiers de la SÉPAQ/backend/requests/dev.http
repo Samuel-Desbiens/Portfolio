@@ -1,0 +1,23 @@
+### Mot de passe de tous les utilisateurs: password
+### Ci-dessous des requêtes à l'API REST pour aider au développement.
+### Ces routes ne devraient pas se retrouver dans l'application.
+
+### ********************************************************
+### NE PAS UTILISER CES ROUTES DANS L'APPLICATION
+### ********************************************************
+
+### Affiche le contenu de toute la BD (un peu lourd, à faire dans le navigateur)
+Get http://localhost:3000/db
+
+### Contient les données des utilisateurs lors de la génération du fichier db.json"
+GET http://localhost:3000/api/generatedUsers?_page=1
+
+### Affiche l'admin (id = 0)
+GET http://localhost:3000/api/generatedUsers?userId=0
+
+###
+GET http://localhost:3000/levels
+
+###
+GET http://localhost:3000/types
+

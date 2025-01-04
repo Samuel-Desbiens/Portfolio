@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}/src",
+      "sourceMaps": true,
+      "sourceMapPathOverrides": {
+        "webpack:///src/*": "${webRoot}/*",
+        "webpack:///./*": "${webRoot}/*",
+        "webpack:///*": "*",
+        "webpack:///./~/*": "${webRoot}/node_modules/*",
+        "webpack:///./src/main.js": "${webRoot}/main.js",
+        "webpack:///./src/store/*": "${webRoot}/store/*",
+        "webpack:///./src/services/*": "${webRoot}/services/*",
+        "webpack:///./src/router/*": "${webRoot}/router/*",
+        "webpack:///./src/shared/*": "${webRoot}/shared/*"
+      },
+      "skipFiles": ["<node_internals>/**", "**/node_modules/**"]
+    },
+    {
+      "type": "node",
+      "name": "vscode-jest-tests",
+      "request": "launch",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "disableOptimisticBPs": true,
+      "runtimeExecutable": "pnpm",
+      "cwd": "${workspaceFolder}",
+      "args": ["run", "test:unit", "--", "--runInBand", "--watchAll=false"]
+    }
+  ]
+}

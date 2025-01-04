@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "slug": "cegep-de-ste-foy",
+            "name": "Cégep de Ste-Foy",
+            "lat": 46.786704,
+            "long": -71.286959,
+            "activate": 1,
+            "user_id": 2,
+            "comment_count": 31,
+            "source": {
+                "name": "RévolvAir",
+                "url": "https://revolvair.org/",
+                "img_path": "assets/img/revolvair_logo.jpg"
+            },
+            "latest_measures": []
+        },
+        {
+            "id": 2,
+            "slug": "beauce-quebec-canada-5438",
+            "name": "Beauce, Quebec, Canada - 5438",
+            "lat": 46.777886,
+            "long": -71.316132,
+            "activate": 1,
+            "user_id": 2,
+            "comment_count": 1,
+            "source": {
+                "name": "AQICN",
+                "url": "https://aqicn.org/here/",
+                "img_path": "assets/img/aqicn_logo.png"
+            },
+            "latest_measures": []
+        },
+        {
+            "id": 3,
+            "slug": "quebec-secteur-de-champigny-5446",
+            "name": "Québec - secteur de Champigny - 5446",
+            "lat": 46.7860396,
+            "long": -71.3612884,
+            "activate": 0,
+            "user_id": 2,
+            "comment_count": 0,
+            "source": {
+                "name": "AQICN",
+                "url": "https://aqicn.org/here/",
+                "img_path": "assets/img/aqicn_logo.png"
+            },
+            "latest_measures": []
+        },
+        {
+            "id": 4,
+            "slug": "quebec-secteur-du-vieux-limoilou-5447",
+            "name": "Québec - secteur du Vieux-Limoilou - 5447",
+            "lat": 46.8122626,
+            "long": -71.2022196,
+            "activate": 1,
+            "user_id": 2,
+            "comment_count": 0,
+            "source": {
+                "name": "AQICN",
+                "url": "https://aqicn.org/here/",
+                "img_path": "assets/img/aqicn_logo.png"
+            },
+            "latest_measures": []
+        },
+        {
+            "id": 5,
+            "slug": "lanaudiere-quebec-5426",
+            "name": "Lanaudière, Quebec - 5426",
+            "lat": 46.8270056,
+            "long": -71.2439762,
+            "activate": 1,
+            "user_id": 2,
+            "comment_count": 1,
+            "source": {
+                "name": "AQICN",
+                "url": "https://aqicn.org/here/",
+                "img_path": "assets/img/aqicn_logo.png"
+            },
+            "latest_measures": []
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+guid: e1286c5943880c24d97caa7d7a3b14f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -98070244222629441
+    second: Foreground_0
+  - first:
+      213: -6723657067348311052
+    second: Foreground_1
+========
+guid: 344f07c268641f243bc57d6426078af3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7293800831267718689
+    second: Fireball-Sheet_0
+  - first:
+      213: -2505383191708378174
+    second: Fireball-Sheet_1
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+    textureCompression: 0
+========
+    textureCompression: 1
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+      name: Foreground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 701
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+========
+      name: Fireball-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 160
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5767505, y: 0.4978915}
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+      spriteID: fb9031ae1a593aef0800000000000000
+      internalID: -98070244222629441
+========
+      spriteID: 126492a3639c83560800000000000000
+      internalID: 7293800831267718689
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+      name: Foreground_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 701
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+========
+      name: Fireball-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+      spriteID: 4f3c82d4585c0b2a0800000000000000
+      internalID: -6723657067348311052
+========
+      spriteID: 2cbdcffd2471b3dd0800000000000000
+      internalID: -2505383191708378174
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c97bba1802f3eaa4eaf3bfa76254c0e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+<<<<<<<< HEAD:Assets/TilesFix/Sprites/Foreground.png.meta
+      Foreground_0: -98070244222629441
+      Foreground_1: -6723657067348311052
+========
+      Fireball-Sheet_0: 7293800831267718689
+      Fireball-Sheet_1: -2505383191708378174
+>>>>>>>> 9c0d5ca9d5fcd7c132eb401266958c013dd4ac01:Assets/Visual/Fireball-Sheet.png.meta
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

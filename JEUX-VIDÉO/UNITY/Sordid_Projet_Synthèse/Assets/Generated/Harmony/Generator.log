@@ -1,0 +1,2664 @@
+20:03:07 [INFO] Opening project at "C:\Users\titoi\OneDrive\Bureau\Travaux\Balthazar\balthazar".
+20:03:07 [INFO] Found game object: TutorialLvlEs
+20:03:07 [INFO] Found animator state: Idle
+20:03:07 [INFO] Found animator state: Idle_Torch
+20:03:07 [INFO] Found scene: Exemple
+20:03:07 [INFO] Found game object: EventSystem
+20:03:07 [INFO] Found game object: Canvas
+20:03:07 [INFO] Found game object: SphereBar
+20:03:07 [INFO] Found game object: Main Camera
+20:03:07 [INFO] Found game object: H8dLMo0
+20:03:07 [INFO] Found animator state: DeathScreen
+20:03:07 [INFO] Found animator state: Idle
+20:03:07 [INFO] Found animator parameter: Start
+20:03:07 [INFO] Found animator parameter: End
+20:03:07 [INFO] Found animator state: Decharge
+20:03:07 [INFO] Found animator parameter: moving
+20:03:07 [INFO] Found animator parameter: dead
+20:03:07 [INFO] Found animator parameter: rebirth
+20:03:07 [INFO] Found animator parameter: attack
+20:03:07 [INFO] Found animator state: Death
+20:03:07 [INFO] Found animator state: Attack
+20:03:07 [INFO] Found animator state: Rebirth
+20:03:07 [INFO] Found animator state: Idle
+20:03:07 [INFO] Found animator state: Walk
+20:03:07 [INFO] Found animator state: Walk
+20:03:07 [INFO] Found animator parameter: attack
+20:03:07 [INFO] Found animator parameter: moving
+20:03:07 [INFO] Found animator parameter: dead
+20:03:07 [INFO] Found animator state: Attack
+20:03:07 [INFO] Found animator state: Death
+20:03:07 [INFO] Found animator state: idle
+20:03:07 [INFO] Found animator state: Death
+20:03:07 [INFO] Found animator parameter: moving
+20:03:07 [INFO] Found animator parameter: dead
+20:03:07 [INFO] Found animator parameter: attack
+20:03:07 [INFO] Found animator state: Walk
+20:03:07 [INFO] Found animator state: Idle
+20:03:07 [INFO] Found animator state: Attack
+20:03:07 [INFO] Found animator parameter: Start
+20:03:07 [INFO] Found animator parameter: End
+20:03:07 [INFO] Found animator state: Start
+20:03:07 [INFO] Found animator state: End
+20:03:07 [INFO] Found animator state: Quick 0
+20:03:07 [INFO] Found animator parameter: spell
+20:03:07 [INFO] Found animator parameter: cast
+20:03:07 [INFO] Found animator parameter: speed
+20:03:07 [INFO] Found animator state: Long 0
+20:03:07 [INFO] Found animator state: Quick
+20:03:07 [INFO] Found animator state: Shield 0
+20:03:07 [INFO] Found animator state: Long
+20:03:07 [INFO] Found animator state: Magic
+20:03:07 [INFO] Found animator state: Hidden
+20:03:07 [INFO] Found animator state: Shield
+20:03:08 [INFO] Found animator state: Falling1
+20:03:08 [INFO] Found animator state: Jump
+20:03:08 [INFO] Found animator state: Jumping2
+20:03:08 [INFO] Found animator state: Falling2
+20:03:08 [INFO] Found animator state: Idle
+20:03:08 [INFO] Found animator state: Sleep
+20:03:08 [INFO] Found animator parameter: xSpeed
+20:03:08 [INFO] Found animator parameter: ySpeed
+20:03:08 [INFO] Found animator parameter: grounded
+20:03:08 [INFO] Found animator parameter: landing
+20:03:08 [INFO] Found animator parameter: jump
+20:03:08 [INFO] Found animator parameter: cast
+20:03:08 [INFO] Found animator state: Slob
+20:03:08 [INFO] Found animator state: Jumping1
+20:03:08 [INFO] Found animator state: Land
+20:03:08 [INFO] Found animator state: Walk
+20:03:08 [INFO] Found animator state: Run
+20:03:08 [INFO] Found animator state: Stun
+20:03:08 [INFO] Found animator state: StartAttack
+20:03:08 [INFO] Found animator parameter: AttackOrb
+20:03:08 [INFO] Found animator parameter: Charging
+20:03:08 [INFO] Found animator parameter: AttackLaser
+20:03:08 [INFO] Found animator parameter: Summon
+20:03:08 [INFO] Found animator parameter: Fleeing
+20:03:08 [INFO] Found animator parameter: Stun
+20:03:08 [INFO] Found animator state: Idle
+20:03:08 [INFO] Found animator state: ChargeAttack
+20:03:08 [INFO] Found animator state: Attack
+20:03:08 [INFO] Found animator state: Lasers
+20:03:08 [INFO] Found animator parameter: Explode
+20:03:08 [INFO] Found animator state: IdleOrb
+20:03:08 [INFO] Found animator state: Explode
+20:03:08 [INFO] Found animator state: move
+20:03:08 [INFO] Found animator state: Attack Spit
+20:03:08 [INFO] Found animator state: Idle
+20:03:08 [INFO] Found animator state: jump attack up 0
+20:03:08 [INFO] Found animator parameter: spit
+20:03:08 [INFO] Found animator parameter: melee
+20:03:08 [INFO] Found animator parameter: buff
+20:03:08 [INFO] Found animator parameter: jump
+20:03:08 [INFO] Found animator parameter: land
+20:03:08 [INFO] Found animator parameter: moving
+20:03:08 [INFO] Found animator parameter: dead
+20:03:08 [INFO] Found animator parameter: up
+20:03:08 [INFO] Found animator state: Attack 1
+20:03:08 [INFO] Found animator state: buff/attack 4
+20:03:08 [INFO] Found animator state: jump attack land
+20:03:08 [INFO] Found animator state: jump attack up
+20:03:08 [INFO] Found animator state: Death
+20:03:08 [INFO] Found animator state: idle
+20:03:08 [INFO] Found animator state: idle
+20:03:08 [INFO] Found animator state: walk
+20:03:08 [INFO] Found animator state: hurt
+20:03:08 [INFO] Found animator parameter: moving
+20:03:08 [INFO] Found animator parameter: dead
+20:03:08 [INFO] Found animator parameter: attack
+20:03:08 [INFO] Found animator parameter: hurt
+20:03:08 [INFO] Found animator state: attack
+20:03:08 [INFO] Found animator state: death
+20:03:08 [INFO] Found animator state: Idle
+20:03:08 [INFO] Found animator state: Boss1Bullet
+20:03:08 [INFO] Found animator state: Boss1Bullet
+20:03:08 [INFO] Found animator state: RoofBullet
+20:03:08 [INFO] Found animator state: FireBolt
+20:03:08 [INFO] Found animator state: Leaf
+20:03:08 [INFO] Found animator state: LeafShield
+20:03:08 [INFO] Found animator state: AirSlash
+20:03:08 [INFO] Found animator state: AirDisc
+20:03:08 [INFO] Found animator state: FireBallProj2
+20:03:08 [INFO] Found animator parameter: start
+20:03:08 [INFO] Found animator state: FireBallProj1
+20:03:08 [INFO] Found animator state: FireBallExplosion
+20:03:08 [INFO] Found animator parameter: explode
+20:03:08 [INFO] Found animator state: SlashingAir
+20:03:08 [INFO] Found animator state: SlashingAir2
+20:03:08 [INFO] Found animator state: Hide
+20:03:08 [INFO] Found animator parameter: Show
+20:03:08 [INFO] Found animator parameter: Hide
+20:03:08 [INFO] Found animator state: Reveal
+20:03:08 [INFO] Found animator state: dead
+20:03:08 [INFO] Found animator state: hurt
+20:03:08 [INFO] Found animator parameter: attack
+20:03:08 [INFO] Found animator parameter: dead
+20:03:08 [INFO] Found animator parameter: moving
+20:03:08 [INFO] Found animator parameter: hurt
+20:03:08 [INFO] Found animator state: idle
+20:03:08 [INFO] Found animator state: walk
+20:03:08 [INFO] Found animator state: attack
+20:03:08 [INFO] Found animator state: Walk
+20:03:08 [INFO] Found animator state: Attack
+20:03:08 [INFO] Found animator state: Idle
+20:03:08 [INFO] Found animator parameter: moving
+20:03:08 [INFO] Found animator parameter: dead
+20:03:08 [INFO] Found animator parameter: attack
+20:03:08 [INFO] Found animator state: Death
+20:03:08 [INFO] Found input control scheme: Keyboard&Mouse
+20:03:08 [INFO] Found input control scheme: Gamepad
+20:03:08 [INFO] Found input control scheme: Touch
+20:03:08 [INFO] Found input control scheme: Joystick
+20:03:08 [INFO] Found input control scheme: XR
+20:03:08 [INFO] Found input action map: Player
+20:03:08 [INFO] Found input action: Move
+20:03:08 [INFO] Found input action: Look
+20:03:08 [INFO] Found input action: Spell0
+20:03:08 [INFO] Found input action: Spell1
+20:03:08 [INFO] Found input action: Spell2
+20:03:08 [INFO] Found input action: Spell3
+20:03:08 [INFO] Found input action: Ultimate
+20:03:08 [INFO] Found input action: BootAbility
+20:03:08 [INFO] Found input action: Jump
+20:03:08 [INFO] Found input action: Inventory
+20:03:08 [INFO] Found input action: Interact
+20:03:08 [INFO] Found input action: Potion
+20:03:08 [INFO] Found input action map: UI
+20:03:08 [INFO] Found input action: Navigate
+20:03:08 [INFO] Found input action: Submit
+20:03:08 [INFO] Found input action: Cancel
+20:03:08 [INFO] Found input action: Point
+20:03:08 [INFO] Found input action: Click
+20:03:08 [INFO] Found input action: ScrollWheel
+20:03:08 [INFO] Found input action: MiddleClick
+20:03:08 [INFO] Found input action: RightClick
+20:03:08 [INFO] Found input action: TrackedDevicePosition
+20:03:08 [INFO] Found input action: TrackedDeviceOrientation
+20:03:08 [INFO] Found scene: FirstBoss
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: Square
+20:03:08 [INFO] Found game object: BossRoom
+20:03:08 [INFO] Found scene: RoomTest
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: ProjectilePool
+20:03:08 [INFO] Found game object: EnemyRange
+20:03:08 [INFO] Found game object: MageSkullPool
+20:03:08 [INFO] Found game object: ExitRange
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: PortalParent
+20:03:08 [INFO] Found game object: ArcherSkeletonPool
+20:03:08 [INFO] Found game object: DemonSkeletonPool
+20:03:08 [INFO] Found game object: LightRange
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: Enemies
+20:03:08 [INFO] Found game object: Arrow
+20:03:08 [INFO] Found game object: select
+20:03:08 [INFO] Found game object: MageSkeletonBullet
+20:03:08 [INFO] Found game object: WorldLvl1Gen
+20:03:08 [INFO] Found game object: MageSkullProjectile
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: LinkedPortals
+20:03:08 [INFO] Found scene: Menu
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: MenuManager
+20:03:08 [INFO] Found game object: Background
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: StartButton
+20:03:08 [INFO] Found scene: SceneGameOver
+20:03:08 [INFO] Found game object: GameOverText
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: GameOver
+20:03:08 [INFO] Found game object: RestartGameButton
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: Background
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found scene: SceneGameWon
+20:03:08 [INFO] Found game object: GameWonManager
+20:03:08 [INFO] Found game object: Background
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: BestScoreText
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: TestScore
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: RestartGameButton
+20:03:08 [INFO] Found scene: Boss2
+20:03:08 [INFO] Found game object: PlatformLvl2 (4)
+20:03:08 [INFO] Found game object: BubbleShield
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: Chunk (16,0)
+20:03:08 [INFO] Found game object: pos (19)
+20:03:08 [INFO] Found game object: room_shadow
+20:03:08 [INFO] Found game object: pos (4)
+20:03:08 [INFO] Found game object: pos (16)
+20:03:08 [INFO] Found game object: pos (12)
+20:03:08 [INFO] Found game object: pos (2)
+20:03:08 [INFO] Found game object: RoofProjZones
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: pos (14)
+20:03:08 [INFO] Found game object: pos (4)
+20:03:08 [INFO] Found game object: Chunk (0,0)
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: SkullMage
+20:03:08 [INFO] Found game object: Skeletor
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: Enemis
+20:03:08 [INFO] Found game object: Particules1
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (-16,0)
+20:03:08 [INFO] Found game object: ProjZone1
+20:03:08 [INFO] Found game object: MageSkullProjectile
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found game object: pos (5)
+20:03:08 [INFO] Found game object: Chunk (-32,0)
+20:03:08 [INFO] Found game object: pos (18)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (-32,0)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: VoidFireStand (1)
+20:03:08 [INFO] Found game object: VoidFireStand
+20:03:08 [INFO] Found game object: pos (5)
+20:03:08 [INFO] Found game object: BossRoom2
+20:03:08 [INFO] Found game object: pos (8)
+20:03:08 [INFO] Found game object: pos (15)
+20:03:08 [INFO] Found game object: DemonSkeletonPool
+20:03:08 [INFO] Found game object: pos (20)
+20:03:08 [INFO] Found game object: MageSkullPool
+20:03:08 [INFO] Found game object: LinkedPortals
+20:03:08 [INFO] Found game object: pos (14)
+20:03:08 [INFO] Found game object: pos (1)
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: PortalParent
+20:03:08 [INFO] Found game object: PlatformLvl2
+20:03:08 [INFO] Found game object: ArcherSkeletonPool
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: TeleportPos
+20:03:08 [INFO] Found game object: Particules2
+20:03:08 [INFO] Found game object: pos (19)
+20:03:08 [INFO] Found game object: Chunk (16,0)
+20:03:08 [INFO] Found game object: PlatformLvl2 (2)
+20:03:08 [INFO] Found game object: pos (13)
+20:03:08 [INFO] Found game object: Chunk (0,0)
+20:03:08 [INFO] Found game object: pos (8)
+20:03:08 [INFO] Found game object: ProjZone2
+20:03:08 [INFO] Found game object: pos (17)
+20:03:08 [INFO] Found game object: pos (15)
+20:03:08 [INFO] Found game object: Grid
+20:03:08 [INFO] Found game object: Skull
+20:03:08 [INFO] Found game object: pos (21)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: BlinkFX
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: Chunk (-16,0)
+20:03:08 [INFO] Found game object: Pos1
+20:03:08 [INFO] Found game object: pos (7)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: pos (10)
+20:03:08 [INFO] Found game object: pos (6)
+20:03:08 [INFO] Found game object: Pos2
+20:03:08 [INFO] Found game object: background
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found game object: Chunk (-16,0)
+20:03:08 [INFO] Found game object: pos (3)
+20:03:08 [INFO] Found game object: Chunk (16,0)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: pos (12)
+20:03:08 [INFO] Found game object: pos (11)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: pos (2)
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: Chunk (-32,-16)
+20:03:08 [INFO] Found game object: pos (11)
+20:03:08 [INFO] Found game object: DemonSkeleton
+20:03:08 [INFO] Found game object: PlayerSpawn
+20:03:08 [INFO] Found game object: PlatformLvl2 (3)
+20:03:08 [INFO] Found game object: pos (6)
+20:03:08 [INFO] Found game object: pos (17)
+20:03:08 [INFO] Found game object: pos
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: pos (1)
+20:03:08 [INFO] Found game object: Skele
+20:03:08 [INFO] Found game object: pos
+20:03:08 [INFO] Found game object: ProjectilePool
+20:03:08 [INFO] Found game object: room
+20:03:08 [INFO] Found game object: PlatformLvl2 (1)
+20:03:08 [INFO] Found game object: NecromancerManager
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (0,0)
+20:03:08 [INFO] Found game object: Slime
+20:03:08 [INFO] Found game object: pos (20)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: pos (16)
+20:03:08 [INFO] Found game object: Chunk (-32,-16)
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: pos (9)
+20:03:08 [INFO] Found game object: Pos3
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: pos (3)
+20:03:08 [INFO] Found game object: pos (18)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: MageSkeletonBullet
+20:03:08 [INFO] Found game object: Arrow
+20:03:08 [INFO] Found game object: pos (9)
+20:03:08 [INFO] Found game object: pos (13)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: pos (7)
+20:03:08 [INFO] Found game object: pos (10)
+20:03:08 [INFO] Found game object: WarningLasers
+20:03:08 [INFO] Found game object: Lasers
+20:03:08 [INFO] Found game object: Boss
+20:03:08 [INFO] Found game object: Necromancer
+20:03:08 [INFO] Found game object: BossProjectiles
+20:03:08 [INFO] Found scene: Death
+20:03:08 [INFO] Found game object: Start
+20:03:08 [INFO] Found game object: EndScreenManager
+20:03:08 [INFO] Found game object: Quit
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: Buttons
+20:03:08 [INFO] Found game object: Text (TMP)
+20:03:08 [INFO] Found game object: Image
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found scene: Lobby
+20:03:08 [INFO] Found game object: PlayerSpawn
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: ScoreManager
+20:03:08 [INFO] Found game object: Light 2D
+20:03:08 [INFO] Found game object: PermenantUpgradeManager
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: Lobby
+20:03:08 [INFO] Found game object: SpellChest (1)
+20:03:08 [INFO] Found game object: CapeChest
+20:03:08 [INFO] Found game object: DontDestroyManager
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: SoulStand (1)
+20:03:08 [INFO] Found game object: Dummy
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: SoulStand (2)
+20:03:08 [INFO] Found game object: SoulStand
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: SpellChest
+20:03:08 [INFO] Found game object: LuckyCatSoul
+20:03:08 [INFO] Found game object: ShopRandomSpell
+20:03:08 [INFO] Found game object: ShopSlotUnlock1
+20:03:08 [INFO] Found game object: ShopSlotUnlock1 (1)
+20:03:08 [INFO] Found game object: TurtleSoul
+20:03:08 [INFO] Found scene: Lvl1
+20:03:08 [INFO] Found game object: ProjectilePool
+20:03:08 [INFO] Found game object: MageSkullPool
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: PortalParent
+20:03:08 [INFO] Found game object: ArcherSkeletonPool
+20:03:08 [INFO] Found game object: DemonSkeletonPool
+20:03:08 [INFO] Found game object: Enemies
+20:03:08 [INFO] Found game object: Arrow
+20:03:08 [INFO] Found game object: select
+20:03:08 [INFO] Found game object: MageSkeletonBullet
+20:03:08 [INFO] Found game object: WorldLvl1Gen
+20:03:08 [INFO] Found game object: MageSkullProjectile
+20:03:08 [INFO] Found game object: LinkedPortals
+20:03:08 [INFO] Found scene: Lvl2
+20:03:08 [INFO] Found game object: WorldGeneratorLevel2
+20:03:08 [INFO] Found game object: select
+20:03:08 [INFO] Found game object: DemonSkeletonPool
+20:03:08 [INFO] Found game object: ArcherSkeletonPool
+20:03:08 [INFO] Found game object: ProjectilePool
+20:03:08 [INFO] Found game object: LightRange
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: ExitRange
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: MageSkullProjectile
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: EnemyRange
+20:03:08 [INFO] Found game object: PortalParent
+20:03:08 [INFO] Found game object: MageSkeletonBullet
+20:03:08 [INFO] Found game object: MageSkullPool
+20:03:08 [INFO] Found game object: Arrow
+20:03:08 [INFO] Found game object: Enemies
+20:03:08 [INFO] Found game object: LinkedPortals
+20:03:08 [INFO] Found scene: MainBoss1
+20:03:08 [INFO] Found game object: pos (8)
+20:03:08 [INFO] Found game object: pos (2)
+20:03:08 [INFO] Found game object: pos (5)
+20:03:08 [INFO] Found game object: ProjZone1
+20:03:08 [INFO] Found game object: pos (20)
+20:03:08 [INFO] Found game object: pos (4)
+20:03:08 [INFO] Found game object: pos (20)
+20:03:08 [INFO] Found game object: pos (10)
+20:03:08 [INFO] Found game object: pos (9)
+20:03:08 [INFO] Found game object: pos (8)
+20:03:08 [INFO] Found game object: Wall (1)
+20:03:08 [INFO] Found game object: VoidFireStand (6)
+20:03:08 [INFO] Found game object: pos (17)
+20:03:08 [INFO] Found game object: pos (1)
+20:03:08 [INFO] Found game object: background_night3_0
+20:03:08 [INFO] Found game object: VoidFireStand (5)
+20:03:08 [INFO] Found game object: ProjZone2
+20:03:08 [INFO] Found game object: pos (11)
+20:03:08 [INFO] Found game object: pos (14)
+20:03:08 [INFO] Found game object: pos (10)
+20:03:08 [INFO] Found game object: pos (1)
+20:03:08 [INFO] Found game object: pos (5)
+20:03:08 [INFO] Found game object: Doors
+20:03:08 [INFO] Found game object: pos (4)
+20:03:08 [INFO] Found game object: pos (6)
+20:03:08 [INFO] Found game object: Wall
+20:03:08 [INFO] Found game object: VoidFireStand (1)
+20:03:08 [INFO] Found game object: pos (16)
+20:03:08 [INFO] Found game object: pos (7)
+20:03:08 [INFO] Found game object: ActivatePortal
+20:03:08 [INFO] Found game object: pos (2)
+20:03:08 [INFO] Found game object: pos (7)
+20:03:08 [INFO] Found game object: VoidFireStand (4)
+20:03:08 [INFO] Found game object: pos
+20:03:08 [INFO] Found game object: pos (18)
+20:03:08 [INFO] Found game object: pos (13)
+20:03:08 [INFO] Found game object: background_night3_0 (1)
+20:03:08 [INFO] Found game object: pos (6)
+20:03:08 [INFO] Found game object: pos (12)
+20:03:08 [INFO] Found game object: VoidFireStand (2)
+20:03:08 [INFO] Found game object: pos (9)
+20:03:08 [INFO] Found game object: VoidFireStand (7)
+20:03:08 [INFO] Found game object: VoidFireStand (3)
+20:03:08 [INFO] Found game object: PlayerSpawn
+20:03:08 [INFO] Found game object: pos (11)
+20:03:08 [INFO] Found game object: pos (15)
+20:03:08 [INFO] Found game object: pos (16)
+20:03:08 [INFO] Found game object: pos (14)
+20:03:08 [INFO] Found game object: pos (3)
+20:03:08 [INFO] Found game object: VoidFireStand
+20:03:08 [INFO] Found game object: pos (19)
+20:03:08 [INFO] Found game object: RoofProjZones
+20:03:08 [INFO] Found game object: pos (19)
+20:03:08 [INFO] Found game object: pos (12)
+20:03:08 [INFO] Found game object: pos (13)
+20:03:08 [INFO] Found game object: Confiner
+20:03:08 [INFO] Found game object: Square
+20:03:08 [INFO] Found game object: GameObject
+20:03:08 [INFO] Found game object: pos
+20:03:08 [INFO] Found game object: BossManager
+20:03:08 [INFO] Found game object: pos (15)
+20:03:08 [INFO] Found game object: pos (17)
+20:03:08 [INFO] Found game object: pos (21)
+20:03:08 [INFO] Found game object: pos (3)
+20:03:08 [INFO] Found game object: Torches
+20:03:08 [INFO] Found game object: pos (18)
+20:03:08 [INFO] Found game object: Boss
+20:03:08 [INFO] Found game object: BossRoom
+20:03:08 [INFO] Found scene: Menu
+[WARN] Duplicated scene found. Scenes should have distinct names. Otherwise, they may be difficult to load. See "C:\Users\titoi\OneDrive\Bureau\Travaux\Balthazar\balthazar\Assets\Scenes\Game\Menu.unity".
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: QuitButton
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: StartButton (2)
+20:03:08 [INFO] Found game object: MenuManager
+20:03:08 [INFO] Found game object: StartButton (1)
+20:03:08 [INFO] Found game object: Earth
+20:03:08 [INFO] Found game object: Fire
+20:03:08 [INFO] Found game object: Background
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: Water
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: StartButton
+20:03:08 [INFO] Found game object: SaveSlotSpace
+20:03:08 [INFO] Found game object: Wind
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: MainImage
+20:03:08 [INFO] Found game object: SoundManager
+20:03:08 [INFO] Found game object: SaveManager
+20:03:08 [INFO] Found game object: AchievementManager
+20:03:08 [INFO] Found scene: Score
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found scene: TransitionRoom
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: PlayerSpawn
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: ChangeLvlPortalDecor
+20:03:08 [INFO] Found game object: TransitionRoom
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: VoidFireStand (1)
+20:03:08 [INFO] Found game object: Chunk (16,-16)
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found game object: Grid
+20:03:08 [INFO] Found game object: special-tiles
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: Spawn
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: VoidFireStand (2)
+20:03:08 [INFO] Found game object: level
+20:03:08 [INFO] Found game object: Chunk (-16,-16)
+20:03:08 [INFO] Found game object: background
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: Collision_Default
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found game object: Chunk (0,-16)
+20:03:08 [INFO] Found scene: Win
+20:03:08 [INFO] Found game object: Start
+20:03:08 [INFO] Found game object: EndScreenManager
+20:03:08 [INFO] Found game object: Quit
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: Buttons
+20:03:08 [INFO] Found game object: Image
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: Outcome
+20:03:08 [INFO] Found scene: fppInventory
+20:03:08 [INFO] Found game object: SpellChest (2)
+20:03:08 [INFO] Found game object: CapeChest
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: SpellChest
+20:03:08 [INFO] Found game object: Square (2)
+20:03:08 [INFO] Found game object: boots (6)
+20:03:08 [INFO] Found game object: boots (1)
+20:03:08 [INFO] Found game object: UpgradeChest
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: BootChest
+20:03:08 [INFO] Found game object: BootChest
+20:03:08 [INFO] Found game object: boots
+20:03:08 [INFO] Found game object: SpellChest (3)
+20:03:08 [INFO] Found game object: Square (1)
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: SpellChest (1)
+20:03:08 [INFO] Found game object: boots (2)
+20:03:08 [INFO] Found game object: Cape
+20:03:08 [INFO] Found game object: boots (5)
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: Square
+20:03:08 [INFO] Found game object: Chest
+20:03:08 [INFO] Found scene: SpellDemoChamber
+20:03:08 [INFO] Found game object: ScoreManager
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: Platform
+20:03:08 [INFO] Found game object: Ground
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: LeftWall
+20:03:08 [INFO] Found game object: Firebolt (1)
+20:03:08 [INFO] Found game object: EventSystem
+20:03:08 [INFO] Found game object: DontDestroyManager
+20:03:08 [INFO] Found game object: Firebolt
+20:03:08 [INFO] Found game object: RightWall
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found scene: Tutorial
+20:03:08 [INFO] Found game object: DontDestroyManager
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: TutorialLvlEs
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: PermenantUpgradeManager
+20:03:08 [INFO] Found game object: ScoreManager
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found scene: Boss1
+20:03:08 [INFO] Found game object: GameManager
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: BossLevel
+20:03:08 [INFO] Found game object: BossRoom
+20:03:08 [INFO] Found game object: cm
+20:03:08 [INFO] Found game object: Player
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: Confiner
+20:03:08 [INFO] Found game object: Virtual Camera
+20:03:08 [INFO] Found game object: Boss
+20:03:08 [INFO] Found game object: SphereBar
+20:03:08 [INFO] Found scene: FPP2_Gen
+20:03:08 [INFO] Found game object: WorldGenerator
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found scene: tobedeleted
+20:03:08 [INFO] Found game object: Main Camera
+20:03:08 [INFO] Found game object: WorldGeneratorLevel2
+20:03:08 [INFO] Found game object: WorldLvl1Gen
+20:03:08 [INFO] Found game object: H8dLMo0
+20:03:08 [INFO] Found game object: SphereBar
+20:03:08 [INFO] Found game object: Image (40)
+20:03:08 [INFO] Found game object: Image (19)
+20:03:08 [INFO] Found game object: Image (29)
+20:03:08 [INFO] Found game object: ScoreKilled
+20:03:08 [INFO] Found game object: ScoreCoins
+20:03:08 [INFO] Found game object: :
+20:03:08 [INFO] Found game object: Input
+20:03:08 [INFO] Found game object: Image (2)
+20:03:08 [INFO] Found game object: Image (61)
+20:03:08 [INFO] Found game object: Label
+20:03:08 [INFO] Found game object: Image (56)
+20:03:08 [INFO] Found game object: Input
+20:03:08 [INFO] Found game object: Image (41)
+20:03:08 [INFO] Found game object: Image (62)
+20:03:08 [INFO] Found game object: Image (22)
+20:03:08 [INFO] Found game object: Image (37)
+20:03:08 [INFO] Found game object: Image (6)
+20:03:08 [INFO] Found game object: Title
+20:03:08 [INFO] Found game object: Image (4)
+20:03:08 [INFO] Found game object: Image (21)
+20:03:08 [INFO] Found game object: Image (16)
+20:03:08 [INFO] Found game object: Image (39)
+20:03:08 [INFO] Found game object: Image (69)
+20:03:08 [INFO] Found game object: Image (36)
+20:03:08 [INFO] Found game object: Image (5)
+20:03:08 [INFO] Found game object: :
+20:03:08 [INFO] Found game object: Image (47)
+20:03:08 [INFO] Found game object: ScoreCollected
+20:03:08 [INFO] Found game object: Image (11)
+20:03:08 [INFO] Found game object: Image (63)
+20:03:08 [INFO] Found game object: Image (50)
+20:03:08 [INFO] Found game object: Image (7)
+20:03:08 [INFO] Found game object: Image (64)
+20:03:08 [INFO] Found game object: Label
+20:03:08 [INFO] Found game object: Image (26)
+20:03:08 [INFO] Found game object: Image (68)
+20:03:08 [INFO] Found game object: Image (24)
+20:03:08 [INFO] Found game object: Image (65)
+20:03:08 [INFO] Found game object: Image (38)
+20:03:08 [INFO] Found game object: Image (46)
+20:03:08 [INFO] Found game object: Image (1)
+20:03:08 [INFO] Found game object: Scores
+20:03:08 [INFO] Found game object: Image (14)
+20:03:08 [INFO] Found game object: Image (12)
+20:03:08 [INFO] Found game object: Image (23)
+20:03:08 [INFO] Found game object: Image (67)
+20:03:08 [INFO] Found game object: Image (31)
+20:03:08 [INFO] Found game object: Image (51)
+20:03:08 [INFO] Found game object: ScoreXp
+20:03:08 [INFO] Found game object: Image (17)
+20:03:08 [INFO] Found game object: Image (15)
+20:03:08 [INFO] Found game object: Canvas
+20:03:08 [INFO] Found game object: :
+20:03:08 [INFO] Found game object: Image (34)
+20:03:08 [INFO] Found game object: Image (59)
+20:03:08 [INFO] Found game object: Image (43)
+20:03:08 [INFO] Found game object: RunRecap
+20:03:08 [INFO] Found game object: Image (42)
+20:03:08 [INFO] Found game object: ItemList
+20:03:08 [INFO] Found game object: Image (18)
+20:03:08 [INFO] Found game object: Input
+20:03:08 [INFO] Found game object: Image (49)
+20:03:08 [INFO] Found game object: Image (53)
+20:03:08 [INFO] Found game object: Image (45)
+20:03:08 [INFO] Found game object: Image (33)
+20:03:08 [INFO] Found game object: Image (9)
+20:03:08 [INFO] Found game object: Image (35)
+20:03:08 [INFO] Found game object: Image (48)
+20:03:08 [INFO] Found game object: Image (25)
+20:03:08 [INFO] Found game object: Image (44)
+20:03:08 [INFO] Found game object: Image (52)
+20:03:08 [INFO] Found game object: Image (66)
+20:03:08 [INFO] Found game object: Image (20)
+20:03:08 [INFO] Found game object: Image (57)
+20:03:08 [INFO] Found game object: Image (10)
+20:03:08 [INFO] Found game object: Image (32)
+20:03:08 [INFO] Found game object: :
+20:03:08 [INFO] Found game object: Image
+20:03:08 [INFO] Found game object: Image (58)
+20:03:08 [INFO] Found game object: Image (55)
+20:03:08 [INFO] Found game object: Label
+20:03:08 [INFO] Found game object: Image (13)
+20:03:08 [INFO] Found game object: Image (3)
+20:03:08 [INFO] Found game object: Image (54)
+20:03:08 [INFO] Found game object: Image (27)
+20:03:08 [INFO] Found game object: Image (30)
+20:03:08 [INFO] Found game object: Image (8)
+20:03:08 [INFO] Found game object: Image (28)
+20:03:08 [INFO] Found game object: Input
+20:03:08 [INFO] Found game object: Image (60)
+20:03:08 [INFO] Found game object: Label
+20:03:08 [INFO] Found game object: IceWaveWave
+20:03:08 [INFO] Found game object: IceWaveSeed
+20:03:08 [INFO] Found game object: IceWave
+20:03:08 [INFO] Found game object: IceWaveWave
+20:03:08 [INFO] Found game object: IceWaveSeed
+20:03:08 [INFO] Found game object: IceWaveMiniWave
+20:03:08 [INFO] Found game object: IceWaveUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: IceSlash
+20:03:08 [INFO] Found game object: IceSlashUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: VineWhip
+20:03:08 [INFO] Found game object: VineWhipUpgrade
+20:03:08 [INFO] Found game object: LeafShieldHelios
+20:03:08 [INFO] Found game object: LeafShieldDuoMegistus
+20:03:08 [INFO] Found game object: LeafShieldTriceMagistus
+20:03:08 [INFO] Found game object: LeafShields
+20:03:08 [INFO] Found game object: LeafShieldHelios (1)
+20:03:08 [INFO] Found game object: LeafShieldDuoMegistus
+20:03:08 [INFO] Found game object: LeafShieldTriceMagistus
+20:03:08 [INFO] Found game object: LeafShieldHelios
+20:03:08 [INFO] Found game object: LeafShieldDuoMegistus (1)
+20:03:08 [INFO] Found game object: LeafShieldsUpgrade
+20:03:08 [INFO] Found game object: LeafShieldTriceMagistus (1)
+20:03:08 [INFO] Found game object: Firebolt
+20:03:08 [INFO] Found game object: SingularFireboltUpgrade3
+20:03:08 [INFO] Found game object: SingularFireboltUpgrade1
+20:03:08 [INFO] Found game object: SingularFireboltUpgrade5
+20:03:08 [INFO] Found game object: FireboltUpgrade
+20:03:08 [INFO] Found game object: SingularFireboltUpgrade4
+20:03:08 [INFO] Found game object: SingularFireboltUpgrade2
+20:03:08 [INFO] Found game object: Sprite(Flying)
+20:03:08 [INFO] Found game object: Sprite(Explode)
+20:03:08 [INFO] Found game object: Fireball
+20:03:08 [INFO] Found game object: Sprite(Flying)
+20:03:08 [INFO] Found game object: FireballUpgrade
+20:03:08 [INFO] Found game object: Sprite(Explode)
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: SlashingAir
+20:03:08 [INFO] Found game object: SlashingAirUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: AirSlash
+20:03:08 [INFO] Found game object: SingularAirSlashUpgrade
+20:03:08 [INFO] Found game object: AirSlashUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: SingularAirSlashUpgrade
+20:03:08 [INFO] Found game object: SingularAirSlashUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: AirDisc
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: MiniAirDiscUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: MiniAirDiscUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: MiniAirDiscUpgrade
+20:03:08 [INFO] Found game object: MiniAirDiscUpgrade
+20:03:08 [INFO] Found game object: Sprite
+20:03:08 [INFO] Found game object: AirDiscUpgrade
+20:03:08 [INFO] Found game object: MiniAirDiscUpgrade
+20:03:08 [INFO] Found game object: AirDiscUpgrade
+20:03:08 [INFO] Found game object: ShopRandomSpell
+20:03:08 [INFO] Found game object: RandomSpell
+20:03:08 [INFO] Found game object: PriceTag_0
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: PriceTag_0
+20:03:08 [INFO] Found game object: SlotUnlocker
+20:03:08 [INFO] Found game object: Text
+20:03:08 [INFO] Found game object: ShopSlotUnlock1
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: PlatformLvl2 (138)
+20:03:08 [INFO] Found game object: PlatformLvl2 (137)
+20:03:08 [INFO] Found game object: PlatformLvl2 (139)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: EndRoom
+20:03:08 [INFO] Found game object: PlatformLvl2 (140)
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: PlatformLvl2 (136)
+20:03:08 [INFO] Found game object: PlatformLvl2 (135)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (4)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (9)
+20:03:08 [INFO] Found game object: PlatformLvl2 (6)
+20:03:08 [INFO] Found game object: PlatformLvl2 (10)
+20:03:08 [INFO] Found game object: Room0
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (8)
+20:03:08 [INFO] Found game object: PlatformLvl2
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (7)
+20:03:08 [INFO] Found game object: PlatformLvl2 (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (2)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (9)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (12)
+20:03:08 [INFO] Found game object: PlatformLvl2 (13)
+20:03:08 [INFO] Found game object: PlatformLvl2 (14)
+20:03:08 [INFO] Found game object: Room1
+20:03:08 [INFO] Found game object: PlatformLvl2 (10)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (11)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (9)
+20:03:08 [INFO] Found game object: Point (8)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (10)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (59)
+20:03:08 [INFO] Found game object: PlatformLvl2 (56)
+20:03:08 [INFO] Found game object: PlatformLvl2 (58)
+20:03:08 [INFO] Found game object: PlatformLvl2 (60)
+20:03:08 [INFO] Found game object: PlatformLvl2 (57)
+20:03:08 [INFO] Found game object: Room10
+20:03:08 [INFO] Found game object: Node6
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node5
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (71)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (59)
+20:03:08 [INFO] Found game object: Room11
+20:03:08 [INFO] Found game object: PlatformLvl2 (66)
+20:03:08 [INFO] Found game object: PlatformLvl2 (63)
+20:03:08 [INFO] Found game object: PlatformLvl2 (61)
+20:03:08 [INFO] Found game object: PlatformLvl2 (62)
+20:03:08 [INFO] Found game object: PlatformLvl2 (67)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (69)
+20:03:08 [INFO] Found game object: PlatformLvl2 (70)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (65)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (64)
+20:03:08 [INFO] Found game object: PlatformLvl2 (68)
+20:03:08 [INFO] Found game object: PlatformLvl2 (60)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (74)
+20:03:08 [INFO] Found game object: PlatformLvl2 (70)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (71)
+20:03:08 [INFO] Found game object: Room12
+20:03:08 [INFO] Found game object: PlatformLvl2 (72)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (73)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (9)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (8)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (78)
+20:03:08 [INFO] Found game object: Room13
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (80)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (76)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (75)
+20:03:08 [INFO] Found game object: PlatformLvl2 (77)
+20:03:08 [INFO] Found game object: PlatformLvl2 (79)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (74)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Room14
+20:03:08 [INFO] Found game object: PlatformLvl2 (76)
+20:03:08 [INFO] Found game object: PlatformLvl2 (74)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (75)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: PlatformLvl2 (75)
+20:03:08 [INFO] Found game object: PlatformLvl2 (77)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Room15
+20:03:08 [INFO] Found game object: PlatformLvl2 (80)
+20:03:08 [INFO] Found game object: PlatformLvl2 (78)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (8)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (7)
+20:03:08 [INFO] Found game object: PlatformLvl2 (79)
+20:03:08 [INFO] Found game object: PlatformLvl2 (76)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: PlatformLvl2 (82)
+20:03:08 [INFO] Found game object: PlatformLvl2 (80)
+20:03:08 [INFO] Found game object: Room16
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (81)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (85)
+20:03:08 [INFO] Found game object: PlatformLvl2 (84)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (79)
+20:03:08 [INFO] Found game object: PlatformLvl2 (83)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (86)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (87)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Room17
+20:03:08 [INFO] Found game object: PlatformLvl2 (89)
+20:03:08 [INFO] Found game object: PlatformLvl2 (85)
+20:03:08 [INFO] Found game object: PlatformLvl2 (88)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (90)
+20:03:08 [INFO] Found game object: PlatformLvl2 (92)
+20:03:08 [INFO] Found game object: PlatformLvl2 (88)
+20:03:08 [INFO] Found game object: PlatformLvl2 (93)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (91)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: Room18
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (89)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: PlatformLvl2 (93)
+20:03:08 [INFO] Found game object: PlatformLvl2 (98)
+20:03:08 [INFO] Found game object: PlatformLvl2 (96)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Room19
+20:03:08 [INFO] Found game object: PlatformLvl2 (92)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (94)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (97)
+20:03:08 [INFO] Found game object: PlatformLvl2 (95)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: PlatformLvl2 (19)
+20:03:08 [INFO] Found game object: Room2
+20:03:08 [INFO] Found game object: PlatformLvl2 (20)
+20:03:08 [INFO] Found game object: PlatformLvl2 (16)
+20:03:08 [INFO] Found game object: PlatformLvl2 (15)
+20:03:08 [INFO] Found game object: PlatformLvl2 (18)
+20:03:08 [INFO] Found game object: PlatformLvl2 (17)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (14)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (8)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (101)
+20:03:08 [INFO] Found game object: PlatformLvl2 (96)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (100)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (94)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: PlatformLvl2 (99)
+20:03:08 [INFO] Found game object: PlatformLvl2 (95)
+20:03:08 [INFO] Found game object: Room20
+20:03:08 [INFO] Found game object: PlatformLvl2 (102)
+20:03:08 [INFO] Found game object: PlatformLvl2 (97)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (98)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (102)
+20:03:08 [INFO] Found game object: PlatformLvl2 (108)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (105)
+20:03:08 [INFO] Found game object: Room21
+20:03:08 [INFO] Found game object: PlatformLvl2 (103)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (104)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (101)
+20:03:08 [INFO] Found game object: PlatformLvl2 (110)
+20:03:08 [INFO] Found game object: PlatformLvl2 (106)
+20:03:08 [INFO] Found game object: PlatformLvl2 (109)
+20:03:08 [INFO] Found game object: PlatformLvl2 (107)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (8)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: PlatformLvl2 (114)
+20:03:08 [INFO] Found game object: PlatformLvl2 (116)
+20:03:08 [INFO] Found game object: PlatformLvl2 (109)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (113)
+20:03:08 [INFO] Found game object: Room22
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (111)
+20:03:08 [INFO] Found game object: PlatformLvl2 (117)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (110)
+20:03:08 [INFO] Found game object: PlatformLvl2 (115)
+20:03:08 [INFO] Found game object: PlatformLvl2 (112)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (123)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (117)
+20:03:08 [INFO] Found game object: Room23
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (118)
+20:03:08 [INFO] Found game object: PlatformLvl2 (119)
+20:03:08 [INFO] Found game object: PlatformLvl2 (116)
+20:03:08 [INFO] Found game object: PlatformLvl2 (121)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (120)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node5
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Room24
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: PlatformLvl2 (127)
+20:03:08 [INFO] Found game object: PlatformLvl2 (129)
+20:03:08 [INFO] Found game object: PlatformLvl2 (123)
+20:03:08 [INFO] Found game object: PlatformLvl2 (131)
+20:03:08 [INFO] Found game object: PlatformLvl2 (122)
+20:03:08 [INFO] Found game object: PlatformLvl2 (132)
+20:03:08 [INFO] Found game object: Room25
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (128)
+20:03:08 [INFO] Found game object: PlatformLvl2 (124)
+20:03:08 [INFO] Found game object: PlatformLvl2 (125)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: PlatformLvl2 (130)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (126)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Room26
+20:03:08 [INFO] Found game object: PlatformLvl2 (133)
+20:03:08 [INFO] Found game object: PlatformLvl2 (134)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (132)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (136)
+20:03:08 [INFO] Found game object: PlatformLvl2 (135)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (131)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (148)
+20:03:08 [INFO] Found game object: PlatformLvl2 (141)
+20:03:08 [INFO] Found game object: PlatformLvl2 (144)
+20:03:08 [INFO] Found game object: PlatformLvl2 (142)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (140)
+20:03:08 [INFO] Found game object: PlatformLvl2 (143)
+20:03:08 [INFO] Found game object: PlatformLvl2 (145)
+20:03:08 [INFO] Found game object: PlatformLvl2 (139)
+20:03:08 [INFO] Found game object: PlatformLvl2 (147)
+20:03:08 [INFO] Found game object: Room28
+20:03:08 [INFO] Found game object: PlatformLvl2 (146)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (155)
+20:03:08 [INFO] Found game object: PlatformLvl2 (152)
+20:03:08 [INFO] Found game object: PlatformLvl2 (153)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (154)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (148)
+20:03:08 [INFO] Found game object: PlatformLvl2 (147)
+20:03:08 [INFO] Found game object: PlatformLvl2 (159)
+20:03:08 [INFO] Found game object: PlatformLvl2 (157)
+20:03:08 [INFO] Found game object: PlatformLvl2 (156)
+20:03:08 [INFO] Found game object: PlatformLvl2 (161)
+20:03:08 [INFO] Found game object: PlatformLvl2 (149)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (150)
+20:03:08 [INFO] Found game object: PlatformLvl2 (160)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (158)
+20:03:08 [INFO] Found game object: PlatformLvl2 (151)
+20:03:08 [INFO] Found game object: Room29
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (26)
+20:03:08 [INFO] Found game object: PlatformLvl2 (24)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: Room3
+20:03:08 [INFO] Found game object: PlatformLvl2 (21)
+20:03:08 [INFO] Found game object: PlatformLvl2 (22)
+20:03:08 [INFO] Found game object: PlatformLvl2 (25)
+20:03:08 [INFO] Found game object: PlatformLvl2 (23)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (19)
+20:03:08 [INFO] Found game object: PlatformLvl2 (20)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node6
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node5
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: PlatformLvl2 (33)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (8)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (32)
+20:03:08 [INFO] Found game object: FireTorch (7)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (31)
+20:03:08 [INFO] Found game object: PlatformLvl2 (29)
+20:03:08 [INFO] Found game object: PlatformLvl2 (26)
+20:03:08 [INFO] Found game object: PlatformLvl2 (27)
+20:03:08 [INFO] Found game object: PlatformLvl2 (30)
+20:03:08 [INFO] Found game object: PlatformLvl2 (25)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (10)
+20:03:08 [INFO] Found game object: PlatformLvl2 (28)
+20:03:08 [INFO] Found game object: Room4
+20:03:08 [INFO] Found game object: FireTorch (9)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl2 (34)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: PlatformLvl2 (38)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (37)
+20:03:08 [INFO] Found game object: Room5
+20:03:08 [INFO] Found game object: PlatformLvl2 (35)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl2 (36)
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl2 (34)
+20:03:08 [INFO] Found game object: PlatformLvl2 (39)
+20:03:08 [INFO] Found game object: PlatformLvl2 (33)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: PlatformLvl2 (38)
+20:03:08 [INFO] Found game object: PlatformLvl2 (39)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl2 (40)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Room6
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (44)
+20:03:08 [INFO] Found game object: PlatformLvl2 (43)
+20:03:08 [INFO] Found game object: PlatformLvl2 (41)
+20:03:08 [INFO] Found game object: PlatformLvl2 (42)
+20:03:08 [INFO] Found game object: Room7
+20:03:08 [INFO] Found game object: PlatformLvl2 (40)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: PlatformLvl2 (49)
+20:03:08 [INFO] Found game object: PlatformLvl2 (48)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl2 (47)
+20:03:08 [INFO] Found game object: PlatformLvl2 (50)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Room8
+20:03:08 [INFO] Found game object: PlatformLvl2 (44)
+20:03:08 [INFO] Found game object: PlatformLvl2 (51)
+20:03:08 [INFO] Found game object: PlatformLvl2 (45)
+20:03:08 [INFO] Found game object: PlatformLvl2 (46)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: PlatformLvl2 (52)
+20:03:08 [INFO] Found game object: PlatformLvl2 (53)
+20:03:08 [INFO] Found game object: PlatformLvl2 (54)
+20:03:08 [INFO] Found game object: PlatformLvl2 (56)
+20:03:08 [INFO] Found game object: PlatformLvl2 (55)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl2 (50)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Room9
+20:03:08 [INFO] Found game object: PlatformLvl2 (51)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: PlayerSpawn
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: PlatformLvl2 (138)
+20:03:08 [INFO] Found game object: PlatformLvl2 (137)
+20:03:08 [INFO] Found game object: PlatformLvl2 (139)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: StartRoom
+20:03:08 [INFO] Found game object: PlatformLvl2 (140)
+20:03:08 [INFO] Found game object: PlatformLvl2 (136)
+20:03:08 [INFO] Found game object: PlatformLvl2 (135)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Wall
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (5)
+20:03:08 [INFO] Found game object: PlatformLvl1 (4)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1
+20:03:08 [INFO] Found game object: ChangeLvlPortal
+20:03:08 [INFO] Found game object: EndRoom
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (1)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (6)
+20:03:08 [INFO] Found game object: PlatformLvl1 (2)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (9)
+20:03:08 [INFO] Found game object: PlatformLvl1 (3)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (7)
+20:03:08 [INFO] Found game object: PlatformLvl1
+20:03:08 [INFO] Found game object: PlatformLvl1 (8)
+20:03:08 [INFO] Found game object: Room0
+20:03:08 [INFO] Found game object: PlatformLvl1 (1)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl1 (4)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl1 (5)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: PlatformLvl1 (6)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (5)
+20:03:08 [INFO] Found game object: Room1
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: FireTorch (9)
+20:03:08 [INFO] Found game object: PlatformLvl1 (28)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl1 (32)
+20:03:08 [INFO] Found game object: FireTorch (8)
+20:03:08 [INFO] Found game object: Room10
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (29)
+20:03:08 [INFO] Found game object: PlatformLvl1 (26)
+20:03:08 [INFO] Found game object: PlatformLvl1 (31)
+20:03:08 [INFO] Found game object: FireTorch (7)
+20:03:08 [INFO] Found game object: FireTorch (10)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl1 (27)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (30)
+20:03:08 [INFO] Found game object: PlatformLvl1 (33)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: PlatformLvl1 (36)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (34)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Room11
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (35)
+20:03:08 [INFO] Found game object: PlatformLvl1 (33)
+20:03:08 [INFO] Found game object: PlatformLvl1 (32)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: PlatformLvl1 (35)
+20:03:08 [INFO] Found game object: PlatformLvl1 (38)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Room12
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (39)
+20:03:08 [INFO] Found game object: PlatformLvl1 (37)
+20:03:08 [INFO] Found game object: PlatformLvl1 (34)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (36)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Room13
+20:03:08 [INFO] Found game object: PlatformLvl1 (38)
+20:03:08 [INFO] Found game object: PlatformLvl1 (42)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (41)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (39)
+20:03:08 [INFO] Found game object: PlatformLvl1 (40)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Room14
+20:03:08 [INFO] Found game object: PlatformLvl1 (43)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (42)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (41)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: PlatformLvl1 (45)
+20:03:08 [INFO] Found game object: PlatformLvl1 (44)
+20:03:08 [INFO] Found game object: PlatformLvl1 (42)
+20:03:08 [INFO] Found game object: Room15
+20:03:08 [INFO] Found game object: PlatformLvl1 (47)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (46)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (43)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Room16
+20:03:08 [INFO] Found game object: PlatformLvl1 (45)
+20:03:08 [INFO] Found game object: PlatformLvl1 (46)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (47)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (48)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (51)
+20:03:08 [INFO] Found game object: PlatformLvl1 (50)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Room17
+20:03:08 [INFO] Found game object: PlatformLvl1 (48)
+20:03:08 [INFO] Found game object: PlatformLvl1 (47)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (49)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: PlatformLvl1 (50)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (52)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl1 (51)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (56)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl1 (53)
+20:03:08 [INFO] Found game object: PlatformLvl1 (54)
+20:03:08 [INFO] Found game object: Room18
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (55)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (56)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (62)
+20:03:08 [INFO] Found game object: PlatformLvl1 (60)
+20:03:08 [INFO] Found game object: PlatformLvl1 (61)
+20:03:08 [INFO] Found game object: PlatformLvl1 (63)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Room19
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl1 (57)
+20:03:08 [INFO] Found game object: PlatformLvl1 (58)
+20:03:08 [INFO] Found game object: PlatformLvl1 (55)
+20:03:08 [INFO] Found game object: PlatformLvl1 (59)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: Room2
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (68)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (67)
+20:03:08 [INFO] Found game object: PlatformLvl1 (65)
+20:03:08 [INFO] Found game object: PlatformLvl1 (66)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Room20
+20:03:08 [INFO] Found game object: PlatformLvl1 (63)
+20:03:08 [INFO] Found game object: PlatformLvl1 (64)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Room21
+20:03:08 [INFO] Found game object: PlatformLvl1 (75)
+20:03:08 [INFO] Found game object: PlatformLvl1 (72)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (77)
+20:03:08 [INFO] Found game object: PlatformLvl1 (71)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: PlatformLvl1 (73)
+20:03:08 [INFO] Found game object: PlatformLvl1 (70)
+20:03:08 [INFO] Found game object: PlatformLvl1 (67)
+20:03:08 [INFO] Found game object: PlatformLvl1 (69)
+20:03:08 [INFO] Found game object: PlatformLvl1 (68)
+20:03:08 [INFO] Found game object: PlatformLvl1 (76)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Point (4)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (75)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Room22
+20:03:08 [INFO] Found game object: PlatformLvl1 (74)
+20:03:08 [INFO] Found game object: PlatformLvl1 (73)
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: PlatformLvl1 (78)
+20:03:08 [INFO] Found game object: PlatformLvl1 (81)
+20:03:08 [INFO] Found game object: PlatformLvl1 (80)
+20:03:08 [INFO] Found game object: PlatformLvl1 (77)
+20:03:08 [INFO] Found game object: PlatformLvl1 (82)
+20:03:08 [INFO] Found game object: PlatformLvl1 (75)
+20:03:08 [INFO] Found game object: PlatformLvl1 (76)
+20:03:08 [INFO] Found game object: PlatformLvl1 (83)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: Room23
+20:03:08 [INFO] Found game object: PlatformLvl1 (79)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: Node4
+20:03:08 [INFO] Found game object: Point (7)
+20:03:08 [INFO] Found game object: Node3
+20:03:08 [INFO] Found game object: Point
+20:03:08 [INFO] Found game object: Point (1)
+20:03:08 [INFO] Found game object: Node2
+20:03:08 [INFO] Found game object: Point (2)
+20:03:08 [INFO] Found game object: Point (6)
+20:03:08 [INFO] Found game object: Node1
+20:03:08 [INFO] Found game object: Point (5)
+20:03:08 [INFO] Found game object: Point (3)
+20:03:08 [INFO] Found game object: SpawnPoint
+20:03:08 [INFO] Found game object: FireTorch (6)
+20:03:08 [INFO] Found game object: FireTorch
+20:03:08 [INFO] Found game object: PlatformLvl1 (83)
+20:03:08 [INFO] Found game object: PlatformLvl1 (82)
+20:03:08 [INFO] Found game object: FireTorch (2)
+20:03:08 [INFO] Found game object: PlatformLvl1 (84)
+20:03:08 [INFO] Found game object: PlatformLvl1 (88)
+20:03:08 [INFO] Found game object: PlatformLvl1 (90)
+20:03:08 [INFO] Found game object: PlatformLvl1 (91)
+20:03:08 [INFO] Found game object: PlatformLvl1 (89)
+20:03:08 [INFO] Found game object: PlatformLvl1 (86)
+20:03:08 [INFO] Found game object: Room24
+20:03:08 [INFO] Found game object: FireTorch (3)
+20:03:08 [INFO] Found game object: FireTorch (4)
+20:03:08 [INFO] Found game object: PlatformLvl1 (81)
+20:03:08 [INFO] Found game object: FireTorch (1)
+20:03:08 [INFO] Found game object: FireTorch (5)
+20:03:08 [INFO] Found game object: PlatformLvl1 (87)
+20:03:08 [INFO] Found game object: PlatformLvl1 (85)
+20:03:09 [INFO] Found game object: Node4
+20:03:09 [INFO] Found game object: SpawnPoint (10)
+20:03:09 [INFO] Found game object: SpawnPoint (8)
+20:03:09 [INFO] Found game object: SpawnPoint (7)
+20:03:09 [INFO] Found game object: SpawnPoint (5)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: SpawnPoint (3)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Node3
+20:03:09 [INFO] Found game object: SpawnPoint (1)
+20:03:09 [INFO] Found game object: SpawnPoint (4)
+20:03:09 [INFO] Found game object: SpawnPoint (9)
+20:03:09 [INFO] Found game object: SpawnPoint (2)
+20:03:09 [INFO] Found game object: SpawnPoint (6)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: SpawnParent
+20:03:09 [INFO] Found game object: PlatformLvl1
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: PlatformLvl1 (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (6)
+20:03:09 [INFO] Found game object: PlatformLvl1 (7)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (91)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: PlatformLvl1 (5)
+20:03:09 [INFO] Found game object: FireTorch (7)
+20:03:09 [INFO] Found game object: PlatformLvl1 (90)
+20:03:09 [INFO] Found game object: PlatformLvl1 (1)
+20:03:09 [INFO] Found game object: FireTorch (6)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: Room25
+20:03:09 [INFO] Found game object: PlatformLvl1 (92)
+20:03:09 [INFO] Found game object: PlatformLvl1 (3)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: PlatformLvl1 (8)
+20:03:09 [INFO] Found game object: FireTorch (8)
+20:03:09 [INFO] Found game object: PlatformLvl1 (9)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: PlatformLvl1 (4)
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Node3
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: PlatformLvl1 (95)
+20:03:09 [INFO] Found game object: PlatformLvl1 (94)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: PlatformLvl1 (93)
+20:03:09 [INFO] Found game object: PlatformLvl1 (92)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: Room26
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Node3
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Node4
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: Room3
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: PlatformLvl1 (7)
+20:03:09 [INFO] Found game object: PlatformLvl1 (5)
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: PlatformLvl1 (6)
+20:03:09 [INFO] Found game object: Room4
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (8)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: Node4
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: Node3
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: PlatformLvl1 (10)
+20:03:09 [INFO] Found game object: PlatformLvl1 (8)
+20:03:09 [INFO] Found game object: FireTorch (6)
+20:03:09 [INFO] Found game object: PlatformLvl1 (7)
+20:03:09 [INFO] Found game object: PlatformLvl1
+20:03:09 [INFO] Found game object: PlatformLvl1 (9)
+20:03:09 [INFO] Found game object: Room6
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (6)
+20:03:09 [INFO] Found game object: PlatformLvl1 (12)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: PlatformLvl1 (11)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (10)
+20:03:09 [INFO] Found game object: PlatformLvl1 (9)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: PlatformLvl1 (7)
+20:03:09 [INFO] Found game object: PlatformLvl1 (8)
+20:03:09 [INFO] Found game object: Room7
+20:03:09 [INFO] Found game object: FireTorch (6)
+20:03:09 [INFO] Found game object: PlatformLvl1 (12)
+20:03:09 [INFO] Found game object: PlatformLvl1 (6)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: PlatformLvl1 (11)
+20:03:09 [INFO] Found game object: PlatformLvl1 (17)
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: FireTorch (6)
+20:03:09 [INFO] Found game object: PlatformLvl1 (13)
+20:03:09 [INFO] Found game object: PlatformLvl1 (16)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (14)
+20:03:09 [INFO] Found game object: PlatformLvl1 (12)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: PlatformLvl1 (19)
+20:03:09 [INFO] Found game object: PlatformLvl1 (18)
+20:03:09 [INFO] Found game object: FireTorch (4)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: Room8
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: PlatformLvl1 (15)
+20:03:09 [INFO] Found game object: Point (7)
+20:03:09 [INFO] Found game object: Point (1)
+20:03:09 [INFO] Found game object: Point (6)
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: Point
+20:03:09 [INFO] Found game object: Point (5)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Point (4)
+20:03:09 [INFO] Found game object: SpawnPoint
+20:03:09 [INFO] Found game object: Point (3)
+20:03:09 [INFO] Found game object: Point (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (18)
+20:03:09 [INFO] Found game object: PlatformLvl1 (25)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: PlatformLvl1 (20)
+20:03:09 [INFO] Found game object: PlatformLvl1 (22)
+20:03:09 [INFO] Found game object: PlatformLvl1 (21)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: PlatformLvl1 (23)
+20:03:09 [INFO] Found game object: Room9
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: PlatformLvl1 (24)
+20:03:09 [INFO] Found game object: FireTorch (5)
+20:03:09 [INFO] Found game object: PlatformLvl1 (16)
+20:03:09 [INFO] Found game object: PlatformLvl1 (19)
+20:03:09 [INFO] Found game object: PlatformLvl1 (26)
+20:03:09 [INFO] Found game object: PlatformLvl1 (17)
+20:03:09 [INFO] Found game object: Node1
+20:03:09 [INFO] Found game object: Node2
+20:03:09 [INFO] Found game object: PlayerSpawn
+20:03:09 [INFO] Found game object: PlatformLvl1 (5)
+20:03:09 [INFO] Found game object: PlatformLvl1 (4)
+20:03:09 [INFO] Found game object: FireTorch (1)
+20:03:09 [INFO] Found game object: FireTorch (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (2)
+20:03:09 [INFO] Found game object: PlatformLvl1 (3)
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: PlatformLvl1
+20:03:09 [INFO] Found game object: StartRoom
+20:03:09 [INFO] Found game object: FireTorch (3)
+20:03:09 [INFO] Found game object: PlatformLvl1 (1)
+20:03:09 [INFO] Found game object: Wall
+20:03:09 [INFO] Found game object: Arrow
+20:03:09 [INFO] Found game object: Boss1Bullet
+20:03:09 [INFO] Found game object: MageSkeletonBullet
+20:03:09 [INFO] Found game object: MageSkullProjectile
+20:03:09 [INFO] Found game object: RoofBullet
+20:03:09 [INFO] Found game object: BossRoom
+20:03:09 [INFO] Found game object: ChangeLvlPortal
+20:03:09 [INFO] Found game object: Lava
+20:03:09 [INFO] Found game object: ChangeLvlPortal
+20:03:09 [INFO] Found game object: ChangeLvlPortalDecor
+20:03:09 [INFO] Found game object: PlatformLvl1
+20:03:09 [INFO] Found game object: PlatformLvl2
+20:03:09 [INFO] Found game object: FireTorch
+20:03:09 [INFO] Found game object: VoidFireStand
+20:03:09 [INFO] Found game object: AchievementManager
+20:03:09 [INFO] Found game object: AudioSource
+20:03:09 [INFO] Found game object: DontDestroyManager
+20:03:09 [INFO] Found game object: BlinkFX
+20:03:09 [INFO] Found game object: Particules2
+20:03:09 [INFO] Found game object: GameManager
+20:03:09 [INFO] Found game object: Particules1
+20:03:09 [INFO] Found game object: PermenantUpgradeManager
+20:03:09 [INFO] Found game object: SaveManager
+20:03:09 [INFO] Found game object: ScoreManager
+20:03:09 [INFO] Found game object: SoundManager
+20:03:09 [INFO] Found game object: Bonus
+20:03:09 [INFO] Found game object: Coin
+20:03:09 [INFO] Found game object: HealthPotion
+20:03:09 [INFO] Found game object: TurtleSoul
+20:03:09 [INFO] Found game object: Spell
+20:03:09 [INFO] Found game object: IceSlash
+20:03:09 [INFO] Found game object: IceWave
+20:03:09 [INFO] Found game object: LeafShield
+20:03:09 [INFO] Found game object: VineWhip
+20:03:09 [INFO] Found game object: FireBall
+20:03:09 [INFO] Found game object: Firebolt
+20:03:09 [INFO] Found game object: AirDisc
+20:03:09 [INFO] Found game object: AirSlash
+20:03:09 [INFO] Found game object: SlashingAir
+20:03:09 [INFO] Found game object: LionSoul
+20:03:09 [INFO] Found game object: LuckyCatSoul
+20:03:09 [INFO] Found game object: SoulStand
+20:03:09 [INFO] Found game object: LionSoul
+20:03:09 [INFO] Found game object: TurtleSoul
+20:03:09 [INFO] Found game object: SlotUnlocker
+20:03:09 [INFO] Found game object: Cape
+20:03:09 [INFO] Found game object: boots
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: H8dLMo0
+20:03:09 [INFO] Found game object: spell2
+20:03:09 [INFO] Found game object: Image (1)
+20:03:09 [INFO] Found game object: Text (TMP)
+20:03:09 [INFO] Found game object: HotBar
+20:03:09 [INFO] Found game object: spell0
+20:03:09 [INFO] Found game object: filledSquare
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Inventory
+20:03:09 [INFO] Found game object: CornerSquare1
+20:03:09 [INFO] Found game object: AchievementBox (7)
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Text (TMP)
+20:03:09 [INFO] Found game object: LoadingScreen
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: AchievementBox (2)
+20:03:09 [INFO] Found game object: Slot 4
+20:03:09 [INFO] Found game object: Quit
+20:03:09 [INFO] Found game object: boots
+20:03:09 [INFO] Found game object: Coins
+20:03:09 [INFO] Found game object: PotionCount
+20:03:09 [INFO] Found game object: Canvas
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Content
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Achievments
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: AchievementBox (1)
+20:03:09 [INFO] Found game object: Slot 3
+20:03:09 [INFO] Found game object: AchievementBox (6)
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Hud
+20:03:09 [INFO] Found game object: Potion Image
+20:03:09 [INFO] Found game object: ultiSpell
+20:03:09 [INFO] Found game object: Potions
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: spell1
+20:03:09 [INFO] Found game object: Slot 1
+20:03:09 [INFO] Found game object: Slot 2
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: CoinCount
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Background
+20:03:09 [INFO] Found game object: LoadingBar
+20:03:09 [INFO] Found game object: Lobby
+20:03:09 [INFO] Found game object: AchievementBox (3)
+20:03:09 [INFO] Found game object: Viewport
+20:03:09 [INFO] Found game object: Slot 5
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: Slot 0
+20:03:09 [INFO] Found game object: PlayerAnim
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: CapeSlot
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: spell3
+20:03:09 [INFO] Found game object: PauseMenu
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: CornerSquare2
+20:03:09 [INFO] Found game object: Text (TMP)
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: BootSlot
+20:03:09 [INFO] Found game object: AchievementBox (4)
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: Cooldown
+20:03:09 [INFO] Found game object: PauseMenu
+20:03:09 [INFO] Found game object: Background
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: SphereBar
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: AchievementBox
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: CoinImage
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: AchievementBox (5)
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: PauseOptions
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Title
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: Image
+20:03:09 [INFO] Found game object: Text (TMP)
+20:03:09 [INFO] Found game object: Description
+20:03:09 [INFO] Found game object: ScreenTransition
+20:03:09 [INFO] Found game object: Icon
+20:03:09 [INFO] Found game object: Coins
+20:03:09 [INFO] Found game object: CoinCount
+20:03:09 [INFO] Found game object: CoinImage
+20:03:09 [INFO] Found game object: LinkedPortals
+20:03:09 [INFO] Found game object: Portal
+20:03:09 [INFO] Found game object: Portal1
+20:03:09 [INFO] Found game object: Portal
+20:03:09 [INFO] Found game object: Compass
+20:03:09 [INFO] Found game object: Arrow
+20:03:09 [INFO] Found game object: CrossHair
+20:03:09 [INFO] Found game object: Main Camera
+20:03:09 [INFO] Found game object: cm
+20:03:09 [INFO] Found game object: SpellCollected
+20:03:09 [INFO] Found game object: ExitRange
+20:03:09 [INFO] Found game object: Player
+20:03:09 [INFO] Found game object: Virtual Camera
+20:03:09 [INFO] Found game object: EnemyRange
+20:03:09 [INFO] Found game object: SpellFiringSpot
+20:03:09 [INFO] Found game object: LightRange
+20:03:09 [INFO] Found game object: Compass
+20:03:09 [INFO] Found game object: CrossHair
+20:03:09 [INFO] Found game object: LEye
+20:03:09 [INFO] Found game object: feets
+20:03:09 [INFO] Found game object: FirePoint
+20:03:09 [INFO] Found game object: DemonSkeleton
+20:03:09 [INFO] Found game object: REye
+20:03:09 [INFO] Found game object: staff
+20:03:09 [INFO] Found game object: feets
+20:03:09 [INFO] Found game object: Skele
+20:03:09 [INFO] Found game object: feets
+20:03:09 [INFO] Found game object: Skeletor
+20:03:09 [INFO] Found game object: firepoint
+20:03:09 [INFO] Found game object: Skull
+20:03:09 [INFO] Found game object: SkullMage
+20:03:09 [INFO] Found game object: castingPos
+20:03:09 [INFO] Found game object: Slime
+20:03:09 [INFO] Found game object: SlimeLight
+20:03:09 [INFO] Found game object: Dummy
+20:03:09 [INFO] Found game object: Light (4)
+20:03:09 [INFO] Found game object: Lights
+20:03:09 [INFO] Found game object: Light (13)
+20:03:09 [INFO] Found game object: Light (14)
+20:03:09 [INFO] Found game object: Light (1)
+20:03:09 [INFO] Found game object: Light
+20:03:09 [INFO] Found game object: Light (16)
+20:03:09 [INFO] Found game object: Light (11)
+20:03:09 [INFO] Found game object: Light (3)
+20:03:09 [INFO] Found game object: Light (5)
+20:03:09 [INFO] Found game object: Light (7)
+20:03:09 [INFO] Found game object: Light (2)
+20:03:09 [INFO] Found game object: Light (8)
+20:03:09 [INFO] Found game object: Light (10)
+20:03:09 [INFO] Found game object: Light (6)
+20:03:09 [INFO] Found game object: Light (15)
+20:03:09 [INFO] Found game object: Light (9)
+20:03:09 [INFO] Found game object: Square
+20:03:09 [INFO] Found game object: Light (12)
+20:03:09 [INFO] Found game object: Boss
+20:03:09 [INFO] Found game object: Main Camera
+20:03:09 [INFO] Found game object: OldBoss
+20:03:09 [INFO] Found game object: BootChest
+20:03:09 [INFO] Found game object: CapeChest
+20:03:09 [INFO] Found game object: SpellChest
+20:03:09 [INFO] Found game object: UpgradeChest
+20:03:09 [INFO] Found game object: ActivatePortal
+20:03:09 [INFO] Found game object: Light (4)
+20:03:09 [INFO] Found game object: Light (14)
+20:03:09 [INFO] Found game object: Light (5)
+20:03:09 [INFO] Found game object: Light (2)
+20:03:09 [INFO] Found game object: Light (16)
+20:03:09 [INFO] Found game object: Light (6)
+20:03:09 [INFO] Found game object: Light (11)
+20:03:09 [INFO] Found game object: Light (13)
+20:03:09 [INFO] Found game object: Light (10)
+20:03:09 [INFO] Found game object: Lights
+20:03:09 [INFO] Found game object: Light (1)
+20:03:09 [INFO] Found game object: Light (9)
+20:03:09 [INFO] Found game object: Square
+20:03:09 [INFO] Found game object: Light (3)
+20:03:09 [INFO] Found game object: Light (7)
+20:03:09 [INFO] Found game object: Light (15)
+20:03:09 [INFO] Found game object: Light (8)
+20:03:09 [INFO] Found game object: Boss
+20:03:09 [INFO] Found game object: Light (12)
+20:03:09 [INFO] Found game object: Light
+20:03:09 [INFO] Found game object: BossProjectiles
+20:03:09 [INFO] Found game object: Orb
+20:03:09 [INFO] Found game object: Laser (4)
+20:03:09 [INFO] Found game object: Laser (2)
+20:03:09 [INFO] Found game object: Lasers
+20:03:09 [INFO] Found game object: Laser (5)
+20:03:09 [INFO] Found game object: Laser (1)
+20:03:09 [INFO] Found game object: Laser
+20:03:09 [INFO] Found game object: Laser (3)
+20:03:09 [INFO] Found game object: Laser (7)
+20:03:09 [INFO] Found game object: Laser (6)
+20:03:09 [INFO] Found game object: Necromancer
+20:03:09 [INFO] Found game object: FirePoint
+20:03:09 [INFO] Found game object: Orb
+20:03:09 [INFO] Found game object: Laser (6)
+20:03:09 [INFO] Found game object: Laser (4)
+20:03:09 [INFO] Found game object: Laser (7)
+20:03:09 [INFO] Found game object: Laser (2)
+20:03:09 [INFO] Found game object: Laser (3)
+20:03:09 [INFO] Found game object: Laser (5)
+20:03:09 [INFO] Found game object: WarningLasers
+20:03:09 [INFO] Found game object: Laser (1)
+20:03:09 [INFO] Found game object: Laser
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator parameter: Start
+20:03:09 [INFO] Found animator parameter: End
+20:03:09 [INFO] Found animator state: Decharge
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: rebirth
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator state: Death
+20:03:09 [INFO] Found animator state: Attack
+20:03:09 [INFO] Found animator state: Rebirth
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator state: Walk
+20:03:09 [INFO] Found animator state: Walk
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator state: Attack
+20:03:09 [INFO] Found animator state: Death
+20:03:09 [INFO] Found animator state: idle
+20:03:09 [INFO] Found animator state: Death
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator state: Walk
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator state: Attack
+20:03:09 [INFO] Found animator state: Quick 0
+20:03:09 [INFO] Found animator parameter: spell
+20:03:09 [INFO] Found animator parameter: cast
+20:03:09 [INFO] Found animator parameter: speed
+20:03:09 [INFO] Found animator state: Long 0
+20:03:09 [INFO] Found animator state: Quick
+20:03:09 [INFO] Found animator state: Shield 0
+20:03:09 [INFO] Found animator state: Long
+20:03:09 [INFO] Found animator state: Magic
+20:03:09 [INFO] Found animator state: Hidden
+20:03:09 [INFO] Found animator state: Shield
+20:03:09 [INFO] Found animator state: Falling1
+20:03:09 [INFO] Found animator state: Jump
+20:03:09 [INFO] Found animator state: Jumping2
+20:03:09 [INFO] Found animator state: Falling2
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator state: Sleep
+20:03:09 [INFO] Found animator parameter: xSpeed
+20:03:09 [INFO] Found animator parameter: ySpeed
+20:03:09 [INFO] Found animator parameter: grounded
+20:03:09 [INFO] Found animator parameter: landing
+20:03:09 [INFO] Found animator parameter: jump
+20:03:09 [INFO] Found animator parameter: cast
+20:03:09 [INFO] Found animator state: Slob
+20:03:09 [INFO] Found animator state: Jumping1
+20:03:09 [INFO] Found animator state: Land
+20:03:09 [INFO] Found animator state: Walk
+20:03:09 [INFO] Found animator state: Run
+20:03:09 [INFO] Found animator state: move
+20:03:09 [INFO] Found animator state: Attack Spit
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator state: jump attack up 0
+20:03:09 [INFO] Found animator parameter: spit
+20:03:09 [INFO] Found animator parameter: melee
+20:03:09 [INFO] Found animator parameter: buff
+20:03:09 [INFO] Found animator parameter: jump
+20:03:09 [INFO] Found animator parameter: land
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: up
+20:03:09 [INFO] Found animator state: Attack 1
+20:03:09 [INFO] Found animator state: buff/attack 4
+20:03:09 [INFO] Found animator state: jump attack land
+20:03:09 [INFO] Found animator state: jump attack up
+20:03:09 [INFO] Found animator state: Death
+20:03:09 [INFO] Found animator state: idle
+20:03:09 [INFO] Found animator state: walk
+20:03:09 [INFO] Found animator state: hurt
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator parameter: hurt
+20:03:09 [INFO] Found animator state: attack
+20:03:09 [INFO] Found animator state: death
+20:03:09 [INFO] Found animator state: Boss1Bullet
+20:03:09 [INFO] Found animator state: Boss1Bullet
+20:03:09 [INFO] Found animator state: dead
+20:03:09 [INFO] Found animator state: hurt
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: hurt
+20:03:09 [INFO] Found animator state: idle
+20:03:09 [INFO] Found animator state: walk
+20:03:09 [INFO] Found animator state: attack
+20:03:09 [INFO] Found animator state: Walk
+20:03:09 [INFO] Found animator state: Attack
+20:03:09 [INFO] Found animator state: Idle
+20:03:09 [INFO] Found animator parameter: moving
+20:03:09 [INFO] Found animator parameter: dead
+20:03:09 [INFO] Found animator parameter: attack
+20:03:09 [INFO] Found animator state: Death
+20:03:09 [INFO] Found tag: Ground
+20:03:09 [INFO] Found tag: Platform
+20:03:09 [INFO] Found tag: Enemy
+20:03:09 [INFO] Found tag: Wall
+20:03:09 [INFO] Found tag: Arrow
+20:03:09 [INFO] Found tag: Exit
+20:03:09 [INFO] Found tag: TextLives
+20:03:09 [INFO] Found tag: TextPause
+20:03:09 [INFO] Found tag: TextScore
+20:03:09 [INFO] Found tag: TextBonus
+20:03:09 [INFO] Found tag: Spawner
+20:03:09 [INFO] Found tag: Lava
+20:03:09 [INFO] Found tag: HardBlock
+20:03:09 [INFO] Found tag: Light
+20:03:09 [INFO] Found tag: CastingPoint
+20:03:09 [INFO] Found tag: DragonBreath
+20:03:09 [INFO] Found tag: Archer
+20:03:09 [INFO] Found tag: Spearman
+20:03:09 [INFO] Found tag: Boss
+20:03:09 [INFO] Found tag: Placeholder
+20:03:09 [INFO] Found tag: SpellScroll
+20:03:09 [INFO] Found tag: Cape
+20:03:09 [INFO] Found tag: CapeSlot
+20:03:09 [INFO] Found tag: BootSlot
+20:03:09 [INFO] Found tag: InvSlot
+20:03:09 [INFO] Found tag: Boot
+20:03:09 [INFO] Found tag: SpellScrollSlot
+20:03:09 [INFO] Found tag: EndPortal
+20:03:09 [INFO] Found tag: HealthBar
+20:03:09 [INFO] Found tag: InvSlot0
+20:03:09 [INFO] Found tag: InvSlot1
+20:03:09 [INFO] Found tag: InvSlot2
+20:03:09 [INFO] Found tag: InvSlot3
+20:03:09 [INFO] Found tag: InvSlot4
+20:03:09 [INFO] Found tag: InvSlot5
+20:03:09 [INFO] Found tag: AttackZones
+20:03:09 [INFO] Found tag: HealthPotion
+20:03:09 [INFO] Found tag: PowerBoost
+20:03:09 [INFO] Found tag: Coin
+20:03:09 [INFO] Found tag: Audio
+20:03:09 [INFO] Found tag: Manager
+20:03:09 [INFO] Found layer: Default.
+20:03:09 [INFO] Found layer: TransparentFX.
+20:03:09 [INFO] Found layer: Ignore Raycast.
+20:03:09 [INFO] Found layer: Entities.
+20:03:09 [INFO] Found layer: Water.
+20:03:09 [INFO] Found layer: UI.
+20:03:09 [INFO] Found layer: Ground.
+20:03:09 [INFO] Found layer: Spell.
+20:03:09 [INFO] Found layer: Room.
+20:03:09 [INFO] Found layer: FlyingEntities.
+20:03:09 [INFO] Found layer: Navigation.
+20:03:09 [INFO] Found layer: Item.
+20:03:09 [INFO] Found layer: Boss.
+20:03:09 [INFO] Found layer: EnemyProjectile.
+20:03:09 [INFO] Found layer: Player.
+20:03:09 [INFO] Found layer: Chest.
+20:03:09 [INFO] Creating output directory at "C:\Users\titoi\OneDrive\Bureau\Travaux\Balthazar\balthazar\Assets/Generated/Harmony".
+20:03:09 [INFO] Generating "AnimatorParameters.cs".
+20:03:09 [INFO] Generating "AnimatorStates.cs".
+20:03:09 [INFO] Generating "Finder.cs".
+20:03:09 [INFO] Generating "GameObjects.cs".
+20:03:09 [INFO] Generating "InputActions.cs".
+20:03:09 [INFO] Generating "InputActionMaps.cs".
+20:03:09 [INFO] Generating "InputControlSchemes.cs".
+20:03:09 [INFO] Generating "Layers.cs".
+20:03:09 [INFO] Generating "Scenes.cs".
+20:03:09 [INFO] Generating "Tags.cs".
+20:03:09 [INFO] Generation took 1519 milliseconds.

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4c166b4fb3ac1244b9746a1f65c1133, type: 3}
+  m_Name: IceSlashScroll
+  m_EditorClassIdentifier: 
+  SpellScrollSprite: {fileID: 1521598891, guid: db01648075dbea2498df2ed5e04ff173, type: 3}
+  Spell: {fileID: 5550547746939898422, guid: a171bbaae78c64243ad8b905bd63456f, type: 3}
+  UpgradedSpell: {fileID: 2322694686935902136, guid: 1a900bff1be6c80448db478f2908f0dc, type: 3}
+  dropChance: 100
+  upgradeSprite: {fileID: 169094410, guid: db01648075dbea2498df2ed5e04ff173, type: 3}

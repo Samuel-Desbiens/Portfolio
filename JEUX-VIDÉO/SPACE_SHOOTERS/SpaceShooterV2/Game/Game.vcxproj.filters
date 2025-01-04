@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="En-têtesPrécompilés">
+      <UniqueIdentifier>{96905b04-9907-42b3-aac0-4d320c6f9b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlls">
+      <UniqueIdentifier>{25079223-6d81-479c-b54b-df13047e3b40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{7878b1c2-fd7f-468b-8aae-82b30a0c1bc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\MainMenuView">
+      <UniqueIdentifier>{c67ad19a-16e2-452b-b965-309a68a69134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TiCPP">
+      <UniqueIdentifier>{af7d3ed8-0293-4d9d-a69c-c9e57f1ccefa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{50d45a52-629a-4294-9699-c6eba5779702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQLITE3">
+      <UniqueIdentifier>{d109e58c-f925-405c-be39-afe74e543eed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\GameplayView">
+      <UniqueIdentifier>{368be92d-e58c-4a92-82d8-014b338a69f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\GameplayView\GameEntities">
+      <UniqueIdentifier>{5ed948c8-1bd0-4273-8af4-8f7e46af0158}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>En-têtesPrécompilés</Filter>
+    </ClInclude>
+    <ClInclude Include="random.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="NotImplementedException.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuController.h">
+      <Filter>Views\MainMenuView</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuModel.h">
+      <Filter>Views\MainMenuView</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuView.h">
+      <Filter>Views\MainMenuView</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Composite.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="PasswordBox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidingButton.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Textbox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Widget.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayController.h">
+      <Filter>Views\GameplayView</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayModel.h">
+      <Filter>Views\GameplayView</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayView.h">
+      <Filter>Views\GameplayView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\extern\SQLite3\sqlite3.h">
+      <Filter>SQLITE3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\extern\SQLite3\sqlite3ext.h">
+      <Filter>SQLITE3</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckButton.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Movable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicProjectile.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Bonus.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BombB.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Ammo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Constante.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicEnemy.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapons.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BWeapon.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomber.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Facer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Randomer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="game.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>En-têtesPrécompilés</Filter>
+    </ClCompile>
+    <ClCompile Include="random.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="NotImplementedException.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuController.cpp">
+      <Filter>Views\MainMenuView</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuModel.cpp">
+      <Filter>Views\MainMenuView</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuView.cpp">
+      <Filter>Views\MainMenuView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\TiCPP\ticpp.cpp">
+      <Filter>TiCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\TiCPP\tinystr.cpp">
+      <Filter>TiCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\TiCPP\tinyxml.cpp">
+      <Filter>TiCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\TiCPP\tinyxmlerror.cpp">
+      <Filter>TiCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\TiCPP\tinyxmlparser.cpp">
+      <Filter>TiCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Composite.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="PasswordBox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingButton.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Textbox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="view.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayController.cpp">
+      <Filter>Views\GameplayView</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayModel.cpp">
+      <Filter>Views\GameplayView</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayView.cpp">
+      <Filter>Views\GameplayView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\SQLite3\shell.c">
+      <Filter>SQLITE3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extern\SQLite3\sqlite3.c">
+      <Filter>SQLITE3</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckButton.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawable.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Movable.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicProjectile.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BombB.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Ammo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicEnemy.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapons.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BWeapon.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomber.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Facer.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Randomer.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="..\extern\SFML\bin\openal32.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-audio-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-audio-d-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-graphics-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-graphics-d-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-network-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-network-d-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-system-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-system-d-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-window-2.dll" />
+    <CopyFileToFolders Include="..\extern\SFML\bin\sfml-window-d-2.dll" />
+  </ItemGroup>
+</Project>

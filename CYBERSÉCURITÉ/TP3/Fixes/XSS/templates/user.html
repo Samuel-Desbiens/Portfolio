@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking App</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        form {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .message-box {
+            background-color: #d4edda;
+            color: #155724;
+            padding: 10px 10px;
+            border-radius: 4px;
+            margin-bottom: 16px;
+            margin: 10px 10px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: 100%;
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-bottom: 16px; /* Add margin between the form and the search field */
+        }
+        
+        .search-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input.search {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 8px;
+            box-sizing: border-box;
+        }
+
+        button.search-button, button.fetch-button {
+            width: 100%;
+            background-color: #007BFF;
+            color: #fff;
+            padding: 8px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to the awesome *Not broken* App!</h1>
+    <div class="message-box">{{ message }}</div>
+
+    <h2>FAQ Messages</h2>
+    <form action="/" method="get">
+        <button type="submit">Show account details</button>
+    </form>
+
+    <h2>Transfer money</h2>
+    <form action="/transfer" method="POST">
+        <label for="targetAccount">Account number of target:</label>
+        <input type="number" id="targetAccount" name="targetAccount" required>
+
+        <label for="ammount">Amount:</label>
+        <input type="number" id="amount" name="amount" required>
+
+        <button type="submit">Transfer</button>
+    </form>
+
+    <h2>Add a Message</h2>
+    <form action="/addfaq" method="post">
+        <label for="message">Message:</label>
+        <input type="text" id="message" name="message" required>
+        <br>
+        <button type="submit" id="submit-faq-message-button">Add Message</button>
+    </form>
+
+    <h2>FAQ Messages</h2>
+    <form action="/showfaqmessages" method="get">
+        <button type="submit" id="getFaqButton">Show FAQ Messages</button>
+    </form>
+
+    <form action="/logout" method="POST">
+        <h2>Logout</h2>
+        <button type="submit">Logout</button>
+    </form>
+</body>
+
+</html>

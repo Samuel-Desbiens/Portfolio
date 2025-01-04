@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tp2ETU</string>
+    <string name="temperature_button">Lancer\nTempérature</string>
+    <string name="humidity_button">Lancer\nHumidité</string>
+    <string name="stats_button">Voir\nStatistique</string>
+    <string name="msg">Messages</string>
+    <string name="ghostmsg">Message Ici</string>
+    <string name="temp_sensor_data">Donnée du capteur de Température</string>
+    <string name="humi_sensor_data">Donnée du capteur d\'Humidité</string>
+    <string name="high_limit">Limite Supérieur:</string>
+    <string name="low_limit">Limite Inférieur:</string>
+    <string name="apply">Appliquer</string>
+    <string name="sarttmm">Sauvgarder et Retourner\nau Menu Principal</string>
+    <string name="zone">Nombre de Zone(s):</string>
+    <string name="temperature">Température</string>
+    <string name="humidity">Humidité</string>
+    <string name="sensor_stats">Statistique des capteurs</string>
+    <string name="date">Date Actuelle:</string>
+    <string name="BTMM">Retour au Menu Principal</string>
+    <string name="save">Sauvgarde dans la Base de Données Éffectuer</string>
+    <string name="nosave">Sauvgarde dans la Base de Donnée Échoué</string>
+</resources>

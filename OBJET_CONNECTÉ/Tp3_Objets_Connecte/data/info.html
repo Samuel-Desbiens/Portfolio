@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Données PM25 - RevolvAir.org</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+</head>
+<body>
+<h1>RevolvAir.org</h1>
+<h3>The air you breathe</h3>
+<div>
+<ul class="menu">
+  <li><a href="/">Qualité de L'air</a></li>
+  <li><a href="/info.html">Information de l'appareil</a></li>
+</ul>
+</div>
+
+<h1>Information de l'appareil</h1>
+
+<h2>Mac Address</h2>
+<h2 id="macaddress">No Value (Yet)</h2>
+
+<h2>Device Id</h2>
+<h2 id="deviceid">No Value (Yet)</h2>
+
+<h2>SSID Réseau</h2>
+<h2 id="ssid">No Value (Yet)</h2>
+
+<h2>RSSI</h2>
+<h2 id="rssi">No Value (Yet)</h2>
+
+<script>
+setInterval(function() { update(); }, 5000);
+    function update(){
+      handleMacId();
+      handleDeviceId();
+      handleSSID();
+      handleRSSI();
+    }
+    function handleMacId() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("macaddress").innerHTML = this.responseText;
+        }
+      };
+      xhttp.open("GET", "/handlemacaddress", true);
+      xhttp.send();
+    }
+    function handleDeviceId() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("deviceid").innerHTML = this.responseText;
+        }
+      };
+      xhttp.open("GET", "/handledeviceid", true);
+      xhttp.send();
+    }
+    function handleSSID() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("ssid").innerHTML = this.responseText;
+        }
+      };
+      xhttp.open("GET", "/handleSSID", true);
+      xhttp.send();
+    }
+    function handleRSSI() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("rssi").innerHTML = this.responseText;
+        }
+      };
+      xhttp.open("GET", "/handleRSSI", true);
+      xhttp.send();
+    }
+</script>
+<div class="footer">
+  <a href="https://RevolvAir.org">RevolvAir.org</a>
+</div>
+</body>
+</html>

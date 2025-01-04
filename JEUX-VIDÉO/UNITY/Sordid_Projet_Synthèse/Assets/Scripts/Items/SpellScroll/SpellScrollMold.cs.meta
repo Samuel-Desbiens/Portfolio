@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4c166b4fb3ac1244b9746a1f65c1133
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpellScrollSprite: {fileID: 21300000, guid: a72cccf0c8d1bc246b514e2e9120c0a5, type: 3}
+  - Spell: {fileID: 5938354827485496210, guid: 647206f7fd4e4e34c8f1bc32b4d93de5, type: 3}
+  - Glyph1: {instanceID: 0}
+  - Glyph2: {instanceID: 0}
+  - Glyph3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

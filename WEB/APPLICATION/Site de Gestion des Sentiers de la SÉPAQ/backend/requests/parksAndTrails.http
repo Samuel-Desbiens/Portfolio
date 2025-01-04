@@ -1,0 +1,24 @@
+####################################################################
+### /api/parks
+####################################################################
+
+###  Tous les parcs
+GET http://localhost:3000/api/parks
+
+### Tous les sentiers d'un parc
+GET http://localhost:3000/api/parks/8/trails
+
+####################################################################
+### /api/trails et /api/segments
+####################################################################
+
+### Info sur un sentier 
+GET http://localhost:3000/api/trails/246/
+
+### Contenu d'un tronçon ("segment") d'un sentier
+GET http://localhost:3000/api/segments/1151/
+
+### Les "j'aime" associés à un sentier
+GET http://localhost:3000/api/trails/246/likes
+
+

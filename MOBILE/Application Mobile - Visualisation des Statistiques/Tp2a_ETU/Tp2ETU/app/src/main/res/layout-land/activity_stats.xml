@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sensor_stats"
+        android:textSize="30dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
+    <RadioGroup
+        android:id="@+id/RGSensor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/cardview_dark_background"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="@id/title"
+        app:layout_constraintBottom_toTopOf="@id/cd"
+        >
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/humidity"
+            android:onClick="onBtnHumidity"
+            />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/temperature"
+            android:onClick="onBtnTemperature"
+            />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/cd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/date"
+        app:layout_constraintTop_toBottomOf="@+id/RGSensor"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/spinner"
+        app:layout_constraintBottom_toTopOf="@+id/ll"
+        />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/RGSensor"
+        app:layout_constraintBottom_toTopOf="@id/ll"
+        app:layout_constraintLeft_toRightOf="@id/cd"
+        />
+
+    <TextView
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/low_limit"
+        app:layout_constraintTop_toBottomOf="@+id/cd"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/llAnswer"
+        app:layout_constraintBottom_toTopOf="@+id/hl"
+        />
+
+    <TextView
+        android:id="@+id/llAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/basic_value"
+        app:layout_constraintTop_toBottomOf="@+id/cd"
+        app:layout_constraintLeft_toRightOf="@id/ll"
+        app:layout_constraintBottom_toTopOf="@+id/hlAnswer"
+        />
+
+    <TextView
+        android:id="@+id/hl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/high_limit"
+        app:layout_constraintTop_toBottomOf="@+id/ll"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/hlAnswer"
+        app:layout_constraintBottom_toTopOf="@+id/SAR"
+        />
+
+    <TextView
+        android:id="@+id/hlAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/basic_value"
+        app:layout_constraintTop_toBottomOf="@+id/llAnswer"
+        app:layout_constraintLeft_toRightOf="@id/hl"
+        app:layout_constraintBottom_toTopOf="@+id/SAR"
+        />
+
+    <Button
+        android:id="@+id/SAR"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:text="@string/BTMM"
+        android:onClick="BackOnClick"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/hl"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

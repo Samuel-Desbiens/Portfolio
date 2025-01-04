@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Enemy
+  - Wall
+  - Arrow
+  - Exit
+  - TextLives
+  - TextPause
+  - TextScore
+  - TextBonus
+  - Spawner
+  - Lava
+  - HardBlock
+  - Light
+  - CastingPoint
+  - DragonBreath
+  - Archer
+  - Spearman
+  - Boss
+  - Placeholder
+  - SpellScroll
+  - Cape
+  - CapeSlot
+  - BootSlot
+  - InvSlot
+  - Boot
+  - SpellScrollSlot
+  - EndPortal
+  - HealthBar
+  - InvSlot0
+  - InvSlot1
+  - InvSlot2
+  - InvSlot3
+  - InvSlot4
+  - InvSlot5
+  - AttackZones
+  - HealthPotion
+  - PowerBoost
+  - Coin
+  - Audio
+  - Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Entities
+  - Water
+  - UI
+  - Ground
+  - Spell
+  - Room
+  - FlyingEntities
+  - Navigation
+  - Item
+  - Boss
+  - EnemyProjectile
+  - Player
+  - Chest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 452961739
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chest
+    uniqueID: 3349831577
+    locked: 0
+  - name: Spells
+    uniqueID: 590853971
+    locked: 0
+  - name: UI
+    uniqueID: 4188303267
+    locked: 0

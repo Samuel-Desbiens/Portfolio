@@ -1,0 +1,295 @@
+"A datetime string with format `Y-m-d H:i:s`, e.g. `2018-05-23 13:43:32`."
+scalar DateTime
+    @scalar(class: "Nuwave\\Lighthouse\\Schema\\Types\\Scalars\\DateTime")
+
+"Indicates what fields are available at the top level of a query operation." #type Query { #   "Find a single user by an identifying attribute." #    user( #        "Search by primary key." #        id: ID @eq @rules(apply: ["prohibits:email", "required_without:email"]) # #        "Search by email address." #        email: String #            @eq #            @rules(apply: ["prohibits:id", "required_without:id", "email"]) #   ): User @find # #    "List multiple users." #    users( #        "Filters by name. Accepts SQL LIKE wildcards `%` and `_`." #        name: String @where(operator: "like") #    ): [User!]! @paginate(defaultCount: 10) #} # #"Account of a person who utilizes this application." #type User { #    "Unique primary key." #    id: ID! # #    "Non-unique name." #    name: String! # #    "Unique email address." #    email: String! # #   "When the email was verified." #    email_verified_at: DateTime # #    "When the account was created."
+type #    created_at: DateTime!
+#
+#    "When the account was last updated."
+#    updated_at: DateTime!
+#}
+
+#-------------------------------------------------------------------------
+
+#Types
+
+Language { #j'ai aucune idée pourquoi le "type" retourne toujours en haut mais il veut pas rester sur la ligne ...
+    id: ID!
+    name: String!
+
+    films: [Film!]! @hasMany
+}
+
+type Statistic {
+    id: ID!
+    average_score: Float!
+
+    film: Film! @hasOne
+}
+
+type Film {
+    id: ID!
+    title: String!
+    release_year: String!
+    length: Int!
+    description: String!
+    rating: String!
+    special_features: String!
+    image: String!
+    created_at: DateTime!
+
+    language: Language! @belongsTo
+    statistic: Statistique @belongsTo
+
+    critics: [Critic!]! @HasMany
+
+    actors: [Actor!]! @belongsToMany
+}
+
+type Actor {
+    id: ID!
+    last_name: String!
+    first_name: String!
+    birthdate: String!
+
+    films: [Film!]! @belongsToMany
+}
+
+type Critic {
+    id: ID!
+    score: Float!
+    comment: String!
+    created_at: DateTime!
+    updated_at: DateTime!
+
+    user: User! @belongsTo
+    film: Film! @belongsTo
+}
+
+type User {
+    id: ID!
+    login: String!
+    password: String!
+    email: String!
+    last_name: String!
+    first_name: String!
+
+    role: Role! @belongsTo
+
+    critics: [Critic!]! @HasMany
+}
+
+type Role {
+    id: ID!
+    name: String!
+
+    users: [User!]! @HasMany
+}
+
+#-------------------------------------------------
+
+#Inputs
+
+#Language Inputs
+input CreateLanguageInput {
+    name: String!
+
+    films: CreateFilmHasMany
+}
+
+input CreateLanguageBelongsTo {
+    connect: ID
+    create: CreateLanguageInput
+}
+
+input CreateLanguageHasMany {
+    create: [CreateLanguageInput]
+}
+
+#Statistic Inputs
+input CreateStatisticInput {
+    average_score: Float!
+
+    film: CreateFilmBelongsTo
+}
+
+input CreateStatisticBelongsTo {
+    connect: ID
+    create: CreateStatisticInput
+}
+
+input CreateStatisticHasMany {
+    create: [CreateArtistInput]
+}
+
+#Film Inputs
+input CreateFilmInput {
+    title: String!
+    release_year: String!
+    length: Int!
+    description: String!
+    rating: String!
+    special_features: String!
+    image: String!
+
+    language: CreateLanguageBelongsTo!
+    statistic: CreateStatisticBelongsTo
+
+    critics: CreateCriticHasMany
+    actors: CreateActorHasMany
+}
+
+input CreateFilmBelongsTo {
+    connect: ID
+    create: CreateFilmInput
+}
+
+input CreateFilmHasMany {
+    connect: [ID]
+    create: [CreateFilmInput]
+}
+
+#Actor Inputs
+input CreateActorInput {
+    last_name: String!
+    first_name: String!
+    birthdate: String!
+
+    films: CreateFilmHasMany
+    updates: UpdateFilmImageInput
+}
+
+input CreateActorBelongsTo {
+    connect: ID
+    create: CreateActorInput
+}
+
+input CreateActorHasMany {
+    create: [CreateActorInput]
+}
+
+#Critic Inputs
+input CreateCriticInput {
+    score: Float!
+    comment: String!
+
+    user: CreateUserBelongsTo
+    film: CreateFilmBelongsTo
+}
+
+input CreateCriticBelongsTo {
+    connect: ID
+    create: CreateCriticInput
+}
+
+input CreateCriticHasMany {
+    create: [CreateCriticInput]
+}
+
+#User Inputs
+input CreateUserInput {
+    login: String!
+    password: String!
+    email: String!
+    last_name: String!
+    first_name: String!
+
+    role: CreateRoleInputBelongsTo
+
+    critics: CreateCriticHasMany
+}
+
+input CreateUserBelongsTo {
+    connect: ID
+    create: CreateUserInput
+}
+
+input CreateUserHasMany {
+    create: [CreateUserInput]
+}
+
+#Role Inputs
+input CreateRoleInput {
+    name: String!
+
+    users: CreateUserHasMany
+}
+
+input CreateRoleInputBelongsTo {
+    connect: ID
+    create: CreateRoleInput
+}
+
+input CreateRoleHasMany {
+    create: [CreateRoleHasMany]
+}
+
+#Other Inputs----------
+
+#@whereBetween duration film
+input DurationRange {
+    min: Int!
+    max: Int!
+}
+
+input UpdateFilmImageInput {
+    id: [ID!]
+    image: String!
+}
+
+#--------------------------------------------------
+
+#Query
+
+type Query {
+    #@all
+    languages: [Language!]! @all
+    statistics: [Statistic!]! @all
+    films(
+        keyword: String
+            @where(key: "title", operator: "like")
+            @where(key: "description", operator: "like", clause: "orWhere")
+        year: Int @where(key: "release_year", operator: ">=")
+        duration_between: DurationRange @whereBetween(key: "length")
+    ): [Film!]! @paginate(defaultCount: 10)
+    actors: [Actor!]! @all
+    critics: [Critic!]! @all
+    users: [User!]! @all
+    roles: [Role!]! @all
+
+    #@find
+    language(id: ID! @eq): Language @find
+    statistic(id: ID! @eq): Statistic @find
+    film(id: ID! @eq): Film @find
+    actor(id: ID! @eq): Actor @find
+    critic(id: ID! @eq): Critic @find
+    user(id: ID! @eq): User @find
+    role(id: ID! @eq): Role @find
+
+    #me
+    me: User @auth
+}
+
+#-----------------------------------------------------
+
+#Mutation
+
+type Mutation {
+    #@create
+    createLanguage(input: CreateLanguageInput! @spread): Language!
+        @create
+        @guard
+    createStatistic(input: CreateStatisticInput! @spread): Statistic!
+        @create
+        @guard
+    createFilm(input: CreateFilmInput! @spread): Film! @create @guard
+    createUser(input: CreateUserInput! @spread): User! @create @guard
+    createRole(input: CreateRoleInput! @spread): Role! @create @guard
+    #Resolvers
+    createActor(input: CreateActorInput! @spread): Actor!
+        @guard
+        @can(ability: "create")
+    createCritic(input: CreateCriticInput! @spread): Statistic!
+        @inject(context: "user.id", name: "user_id")
+        @guard
+}

@@ -1,0 +1,101 @@
+﻿  stdafx.cpp
+  shell.c
+  sqlite3.c
+  Generating Code...
+  ticpp.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Generating Code...
+  Ammo.cpp
+  BasicEnemy.cpp
+  BasicProjectile.cpp
+  Bomb.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Bomb.cpp(4,17): warning C4100: 'playerO': unreferenced formal parameter
+  BombB.cpp
+  Bomber.cpp
+  Bonus.cpp
+  Button.cpp
+  BWeapon.cpp
+  Character.cpp
+  CheckButton.cpp
+  Drawable.cpp
+  Enemy.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Enemy.cpp(31,33): warning C4100: 'playerPos': unreferenced formal parameter
+  Facer.cpp
+  game.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(113,22): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(122,24): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(143,22): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(150,22): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(162,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(168,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(174,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(187,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(193,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(199,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(210,35): warning C4458: declaration of 'window' hides class member
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.h(58,19): message : see declaration of 'Game::window'
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(215,21): warning C4018: '<': signed/unsigned mismatch
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\game.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+  GameplayController.cpp
+  GameplayModel.cpp
+  GameplayView.cpp
+  Image.cpp
+  Label.cpp
+  Generating Code...
+  Compiling...
+  Composite.cpp
+  MainMenuController.cpp
+  MainMenuModel.cpp
+  MainMenuView.cpp
+  Movable.cpp
+  NotImplementedException.cpp
+  PasswordBox.cpp
+  Player.cpp
+  Projectile.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Projectile.cpp(5,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  random.cpp
+  Randomer.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Randomer.cpp(9,13): warning C4458: declaration of 'rand' hides class member
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Randomer.h(18,9): message : see declaration of 'Randomer::rand'
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Randomer.cpp(21,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Randomer.cpp(22,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Randomer.cpp(17,36): warning C4100: 'playerPos': unreferenced formal parameter
+  Shield.cpp
+  SlidingButton.cpp
+  Textbox.cpp
+  UI.cpp
+  view.cpp
+  Weapons.cpp
+J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Game\Weapons.cpp(4,23): warning C4100: 'active': unreferenced formal parameter
+  Widget.cpp
+  Generating Code...
+  Game.vcxproj -> J:\Users\samuel desbiens\Desktop\Career related\PORTFOLIO\Photos\20191209233728_EFCS_SDesbiens\Debug\Game.lib

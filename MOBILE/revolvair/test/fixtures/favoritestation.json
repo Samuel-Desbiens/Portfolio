@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "id": 5,
+            "slug": "lanaudiere-quebec-5426",
+            "name": "Lanaudière, Quebec - 5426",
+            "description": "http://www.mddep.gouv.qc.ca/air/iqa/",
+            "lat": 46.8270056,
+            "long": -71.2439762,
+            "activate": 1,
+            "outdoor": 1,
+            "height": 100,
+            "position": 1,
+            "platine": {
+                "id": 1,
+                "name": "esp8266",
+                "created_at": null,
+                "updated_at": null
+            },
+            "address": {
+                "id": 1,
+                "zip": "G1V 1T3",
+                "city": "Québec",
+                "country": "Canada",
+                "created_at": null,
+                "updated_at": null
+            },
+            "comment_count": null,
+            "alert_count": null,
+            "measure_count": null,
+            "latest_measures": [
+                {
+                    "id": 2007162,
+                    "unit": "pm25_raw",
+                    "value": 12.58,
+                    "created_at": "2023-10-26 15:00:00"
+                }
+            ],
+            "source": {
+                "name": "AQICN",
+                "url": "https://aqicn.org/here/",
+                "img_path": "assets/img/aqicn_logo.png"
+            },
+            "user_id": 2,
+            "detector_id": 1
+        },
+        {
+            "id": 25,
+            "slug": "purpleair-99983",
+            "name": "PurpleAir 99983",
+            "description": "Station de PurpleAir",
+            "lat": 46.774088,
+            "long": -71.369689,
+            "activate": 1,
+            "outdoor": 1,
+            "height": null,
+            "position": null,
+            "platine": null,
+            "address": null,
+            "comment_count": null,
+            "alert_count": null,
+            "measure_count": null,
+            "latest_measures": [],
+            "source": null,
+            "user_id": 1,
+            "detector_id": null
+        },
+        {
+            "id": 588,
+            "slug": "quebec-ecole-les-primeveres-frm",
+            "name": "QuÉbec-École Les PrimevÈres (FRM)",
+            "description": "QuÉbec-École Les PrimevÈres (FRM) 000050311",
+            "lat": 46.77417,
+            "long": -71.36972,
+            "activate": 1,
+            "outdoor": 1,
+            "height": null,
+            "position": null,
+            "platine": null,
+            "address": null,
+            "comment_count": null,
+            "alert_count": null,
+            "measure_count": null,
+            "latest_measures": [
+                {
+                    "id": 2007218,
+                    "unit": "pm25_raw",
+                    "value": 15.1,
+                    "created_at": "2023-10-26 16:00:00"
+                }
+            ],
+            "source": null,
+            "user_id": 1,
+            "detector_id": null
+        },
+        {
+            "id": 672,
+            "slug": "deschambault-grondines-frm",
+            "name": "Deschambault-Grondines (FRM)",
+            "description": "Deschambault-Grondines (FRM) 000053301",
+            "lat": 46.68237,
+            "long": -71.9659,
+            "activate": 1,
+            "outdoor": 1,
+            "height": null,
+            "position": null,
+            "platine": null,
+            "address": null,
+            "comment_count": null,
+            "alert_count": null,
+            "measure_count": null,
+            "latest_measures": [
+                {
+                    "id": 2007243,
+                    "unit": "pm25_raw",
+                    "value": 15.2,
+                    "created_at": "2023-10-26 16:00:00"
+                }
+            ],
+            "source": null,
+            "user_id": 1,
+            "detector_id": null
+        }
+    ]
+}

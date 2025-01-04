@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4c166b4fb3ac1244b9746a1f65c1133, type: 3}
+  m_Name: FireBallScroll
+  m_EditorClassIdentifier: 
+  SpellScrollSprite: {fileID: -1633254715, guid: db01648075dbea2498df2ed5e04ff173, type: 3}
+  Spell: {fileID: 8803142045510068400, guid: 20a7fe15e4e5b24458da8f28c35ded9b, type: 3}
+  UpgradedSpell: {fileID: 527239597398832870, guid: 621a72f7581473c4a82dc7eab9e68aaa, type: 3}
+  dropChance: 100
+  upgradeSprite: {fileID: -408100467, guid: db01648075dbea2498df2ed5e04ff173, type: 3}

@@ -1,0 +1,20 @@
+﻿<Window  x:Class="Tetris.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="Options" Height="800" Width="400">
+    <Grid>
+        <Slider x:Name="nbcolonne" Value="10" Minimum="4" Maximum="50" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" HorizontalAlignment="Left" VerticalAlignment="Top" Height="68" Width="293" Margin="11,38,0,0"/>
+        <Slider x:Name="nbligne" Value="20" Minimum="3" Maximum="50" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" HorizontalAlignment="Left" VerticalAlignment="Top" Height="68" Width="293" Margin="10,148,0,0"/>
+        <TextBox x:Name="nbcolonetext" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding ElementName=nbligne, Path=Value, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="71" Margin="313,148,0,0"/>
+        <TextBox x:Name="nblignetext" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding ElementName=nbcolonne, Path=Value, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="71" Margin="313,38,0,0"/>
+        <TextBox x:Name="textBoxnbcolonne" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Nombre de colonne désirer :" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="textBoxnbligne" HorizontalAlignment="Left" Height="23" Margin="10,111,0,0" TextWrapping="Wrap" Text="Nombre de ligne désirer :" VerticalAlignment="Top" Width="160"/>
+        <CheckBox x:Name="MusicCheck" Content="Musique" IsChecked="True" HorizontalAlignment="Left" Margin="10,696,0,0" VerticalAlignment="Top" Checked="MusicCheck_Checked" Unchecked="MusicCheck_Unchecked"/>
+        <Button x:Name="Accept" Content="Accept" HorizontalAlignment="Left" Margin="95,723,0,0" VerticalAlignment="Top" Width="75" Click="Accept_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="229,723,0,0" VerticalAlignment="Top" Width="75" Click="Cancel_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tp2ETU</string>
+    <string name="temperature_button">Start\nTemperature</string>
+    <string name="humidity_button">Start\nHumidity</string>
+    <string name="stats_button">View\nStats</string>
+    <string name="msg">Messages</string>
+    <string name="ghostmsg">Message Here</string>
+    <string name="temp_sensor_data">Sensor data for Temperature</string>
+    <string name="humi_sensor_data">Sensor data for Humidity</string>
+    <string name="high_limit">High Limit:</string>
+    <string name="low_limit">Low Limit:</string>
+    <string name="apply">Apply</string>
+    <string name="sarttmm">Save and Return\nTo the Main Menu</string>
+    <string name="zone">NB Zone(s):</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="sensor_stats">Sensor stats</string>
+    <string name="date">Current Date:</string>
+    <string name="BTMM">Back To Main Menu</string>
+    <string name="save">Saved in the Database Successful!</string>
+    <string name="nosave">Unsuccessful to save in the Database.</string>
+</resources>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/topText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/temp_sensor_data"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/middle_guideline"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/Graph"
+        android:layout_width="0dp"
+        android:layout_height="370dp"
+        app:layout_constraintTop_toBottomOf="@+id/topText"
+        app:layout_constraintRight_toLeftOf="@id/middle_guideline"
+        app:layout_constraintLeft_toLeftOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/HL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/high_limit"
+        app:layout_constraintBottom_toTopOf="@id/LL"
+        app:layout_constraintLeft_toRightOf="@id/middle_guideline"
+        app:layout_constraintRight_toLeftOf="@id/HLValue"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/HLValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/basic_value"
+        app:layout_constraintBottom_toTopOf="@id/LL"
+        app:layout_constraintLeft_toRightOf="@+id/HL"
+        app:layout_constraintRight_toLeftOf="@id/AddHL"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/AddHL"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="@string/add"
+        app:layout_constraintBottom_toTopOf="@id/HLValue"
+        app:layout_constraintLeft_toRightOf="@+id/HLValue"
+        app:layout_constraintRight_toRightOf="parent"
+       />
+
+
+    <Button
+        android:id="@+id/SubHL"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="@string/minus"
+        app:layout_constraintLeft_toRightOf="@+id/HLValue"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/HLValue" />
+
+    <TextView
+        android:id="@+id/LL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/low_limit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/middle_guideline"
+        app:layout_constraintRight_toLeftOf="@id/LLValue"
+        app:layout_constraintTop_toBottomOf="@id/HL" />
+
+    <TextView
+        android:id="@+id/LLValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/basic_value"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/LL"
+        app:layout_constraintRight_toLeftOf="@id/AddLL"
+        app:layout_constraintTop_toBottomOf="@id/HL" />
+
+    <Button
+        android:id="@+id/AddLL"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="@string/add"
+        app:layout_constraintBottom_toTopOf="@id/LLValue"
+        app:layout_constraintLeft_toRightOf="@+id/HLValue"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
+
+    <Button
+        android:id="@+id/SubLL"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="@string/minus"
+        app:layout_constraintLeft_toRightOf="@+id/LLValue"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/LLValue"
+        />
+
+    <Button
+        android:id="@+id/SAR"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:text="@string/sarttmm"
+        android:onClick="BackOnClick"
+        app:layout_constraintLeft_toRightOf="@+id/Graph"
+        app:layout_constraintRight_toLeftOf="@+id/SubLL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/middle_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="365dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

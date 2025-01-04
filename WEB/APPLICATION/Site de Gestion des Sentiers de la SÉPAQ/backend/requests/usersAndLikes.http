@@ -1,0 +1,58 @@
+####################################################################
+# /api/register et /api/login 
+####################################################################
+
+### Créer un utilisateur
+### Pour la création d'un utilisateur, le id ne devrait pas être dans les données envoyées. 
+### Le id est créé par l'API REST et est présent dans le token.
+### Pour manipuler un token, voir fichier tokenHelper.js du projet exemple-auth.
+### Ci-dessous le id est ajouté pour simplifier la création, mais en réalité ce n'est pas au client de gérer la création d'un id.
+POST http://localhost:3000/api/register
+content-type: application/json
+
+{
+  "email": "user@user.com",
+  "password": "password",
+  "name": "user user",
+  "id":99999,
+  "role": "user"
+}
+
+### Récupérer un jeton 
+POST http://localhost:3000/api/login
+content-type: application/json
+
+{
+  "email": "user@user.com",
+  "password": "password"
+}
+
+####################################################################
+# /api/users
+####################################################################
+# Info sur un utilisateur
+GET http://localhost:3000/api/users/99999
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAdXNlci5jb20iLCJpYXQiOjE2MTk0NzA0NTIsImV4cCI6MTYxOTQ3NDA1Miwic3ViIjoiOTk5OTkifQ.VzbKkMZSXLvfJBt6VM_yyvjFWaz9VUvIoSUXVOsIWhU
+
+### Les "j'aime" d'un utilisateur  
+GET http://localhost:3000/api/users/99999/likes
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAdXNlci5jb20iLCJpYXQiOjE2MTk0NzA0NTIsImV4cCI6MTYxOTQ3NDA1Miwic3ViIjoiOTk5OTkifQ.VzbKkMZSXLvfJBt6VM_yyvjFWaz9VUvIoSUXVOsIWhU
+
+
+####################################################################
+# /api/likes
+####################################################################
+
+### Ajouter un "j'aime" à un utilisateur 
+POST http://localhost:3000/api/likes
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAdXNlci5jb20iLCJpYXQiOjE2NTIzMTUxNTAsImV4cCI6MTY1MjMxODc1MCwic3ViIjoiOTk5OTkifQ.XyCzhbM7Nhn-JWmDWTs8DHEiQFkiQyidvbG3zRDWfbc
+content-type: application/json
+
+{
+    "userId": 99999,
+    "trailId": 246
+}
+
+### supprimer un "j'aime" d'un utilisateur 
+DELETE  http://localhost:3000/api/likes/1023
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAdXNlci5jb20iLCJpYXQiOjE2NTIzMTUxNTAsImV4cCI6MTY1MjMxODc1MCwic3ViIjoiOTk5OTkifQ.XyCzhbM7Nhn-JWmDWTs8DHEiQFkiQyidvbG3zRDWfbc

@@ -1,0 +1,6 @@
+FROM demers/python420w4a
+COPY ./requirement.txt /mnt/app/
+COPY ./run.sh /mnt/app/
+RUN pip3 install --no-cache-dir -r /mnt/app/requirement.txt
+WORKDIR /mnt/app
+CMD ["./run.sh", "./project/backend.py", "5555"]

@@ -1,0 +1,6 @@
+FROM demers/python420w4a
+ADD ./requirement.txt /
+ADD ./run.sh /
+RUN pip3 install -r ./requirement.txt
+WORKDIR /mnt/app
+CMD ["./run.sh","./project/fakesite.py", "5554"]
